@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wp-content/themes/barebones/static/css/main.chunk.css",
+    "main.js": "/wp-content/themes/barebones/static/js/main.chunk.js",
+    "main.js.map": "/wp-content/themes/barebones/static/js/main.chunk.js.map",
+    "runtime-main.js": "/wp-content/themes/barebones/static/js/bundle.js",
+    "runtime-main.js.map": "/wp-content/themes/barebones/static/js/bundle.js.map",
+    "static/js/2.chunk.js": "/wp-content/themes/barebones/static/js/2.chunk.js",
+    "static/js/2.chunk.js.map": "/wp-content/themes/barebones/static/js/2.chunk.js.map",
+    "index.php": "/wp-content/themes/barebones/index.php",
+    "precache-manifest.9068a43c6aa2f6fb8e21204d55179481.js": "/wp-content/themes/barebones/precache-manifest.9068a43c6aa2f6fb8e21204d55179481.js",
+    "service-worker.js": "/wp-content/themes/barebones/service-worker.js",
+    "static/css/main.chunk.css.map": "/wp-content/themes/barebones/static/css/main.chunk.css.map",
+    "static/js/2.chunk.js.LICENSE.txt": "/wp-content/themes/barebones/static/js/2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/js/2.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}

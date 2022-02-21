@@ -1,0 +1,161 @@
+2020-02-17T18:15:23+00:00 CRITICAL syntax error, unexpected '"<pre>"' (T_CONSTANT_ENCAPSED_STRING) w E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version2\class-wc-rest-coupons-v2-controller.php w linii 212
+
+2020-02-17T19:38:46+00:00 CRITICAL Uncaught Error: Class 'Stayfit\Dashboard\Exception' not found in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:21
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-con w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 21
+
+2020-02-17T19:39:05+00:00 CRITICAL Uncaught Exception: Nie znalezino użytkownika. in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:21
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\s w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 21
+
+2020-02-17T19:39:31+00:00 CRITICAL Uncaught Exception: Nie znalezino użytkownika. in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:21
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\s w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 21
+
+2020-02-17T19:41:51+00:00 CRITICAL Uncaught Exception: Nie znalezino użytkownika. in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:21
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\s w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 21
+
+2020-02-17T19:43:02+00:00 CRITICAL Uncaught Error: Call to a member function firstname() on null in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:116
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-co w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 116
+
+2020-02-17T19:44:30+00:00 CRITICAL Uncaught Error: Call to undefined function Stayfit\Dashboard\current_url() in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:27
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\ w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 27
+
+2020-02-17T19:44:44+00:00 CRITICAL Uncaught Error: Call to undefined function Stayfit\Dashboard\get_current_url() in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:27
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xa w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 27
+
+2020-02-17T20:24:25+00:00 CRITICAL Uncaught Error: Class 'Stayfit\Dashboard\DataTime' not found in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:31
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-cont w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+
+2020-02-17T20:24:33+00:00 CRITICAL Uncaught Error: Class 'DataTime' not found in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:31
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfi w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+
+2020-02-17T20:24:42+00:00 CRITICAL Object of class DateTime could not be converted to string w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+
+2020-02-17T20:25:29+00:00 CRITICAL syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+
+2020-02-17T20:27:57+00:00 CRITICAL Uncaught Error: Class 'Stayfit\Dashboard\DateTimeZone' not found in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:31
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp- w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+
+2020-02-17T20:28:06+00:00 CRITICAL Uncaught Exception: DateTimeZone::__construct(): Unknown or bad timezone (Warsaw) in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:31
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(31): DateTimeZone->__construct('Warsaw')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash. w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+
+2020-02-17T20:29:01+00:00 CRITICAL Uncaught Exception: DateTimeZone::__construct(): Unknown or bad timezone (128) in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:31
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(31): DateTimeZone->__construct('128')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+# w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+
+2020-02-17T20:29:35+00:00 CRITICAL syntax error, unexpected ';', expecting ')' w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+
+2020-02-17T20:29:42+00:00 CRITICAL Uncaught Exception: DateTimeZone::__construct(): Unknown or bad timezone (123) in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:31
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(31): DateTimeZone->__construct('123')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+# w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+
+2020-02-17T20:29:56+00:00 CRITICAL Uncaught Exception: DateTimeZone::__construct(): Unknown or bad timezone (128) in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:31
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(31): DateTimeZone->__construct('128')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Stayfit\Dashboard\Sf_Client_Manager->person()
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+# w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 31
+

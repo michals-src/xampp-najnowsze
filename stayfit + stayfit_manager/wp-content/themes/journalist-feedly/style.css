@@ -1,0 +1,135 @@
+/* 
+Theme Name: Journalist Feedly
+Template: blogfeedly
+Theme URI: https://superbthemes.com/blogfeedly/blog-feedly-info/
+Text Domain: journalist-feedly
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, theme-options, threaded-comments, translation-ready, blog, right-sidebar
+Text Domain: blogfeedly
+Author: ThemeEverest
+Author URI: https://superbthemes.com/
+Description: It does not matter if you want to create classic news website, online editorial magazine, a personal modern lifestyle blog or an affilaite review website. Blog Feedly offers limitless customization. The theme is a perfect combination of beautiful and professional. There is a ton of ad space, you can use the header widgets to place ads banners and adsense in case you need to earn money as an affiliate – No matter if it is image ads advertisment or video advertising, all ad networks work such as Google DFP Ads, adsense and more. Our theme is made for the search engines, so you can easily beat the other bloggers and newspapers in Google with our fast and SEO optimized theme. If you wish to start blogging about business or travel for example then our responsive and flexible design is perfect – It is elegant and you can make it dark, white, minimal, boxed, flat, clean or advanced and full of sidebar widgets if you wish. Being creative and setting up a theme has never been so simple. Its elegant and minimalistic look make its an attractive theme for writers who wish to write about their view on food, fashion, travel, clothing, movies or their lifestyle in general.
+Version: 1.0
+*/
+a:hover {
+	color: #c69c6d;
+}
+
+a.more-link {
+	background: #c69c6d;
+	color: #fff;
+	margin: auto;
+	text-align: center;
+	padding: 10px 25px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+.site-navigation a {
+	text-transform:none;
+}
+* {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+html,
+button,
+input,
+select,
+textarea {
+	font-family: 'lato','Karla', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.site-navigation a {
+	font-weight:600;
+}
+.site-description {
+	font-weight:500;
+	letter-spacing:0.5px;
+}
+.site-header .inner a {
+	letter-spacing:0.5px;
+}
+a.more-link {
+    font-weight: 600;
+    font-size: 17px;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+textarea:focus {
+	border-color: #c69c6d;
+	color: #1f1f1f;
+	outline: 0;
+}
+
+button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+	background: #c69c6d;
+	border-color: #c69c6d;
+	color: #fff;
+	padding: 10px 24px;
+}
+
+button:hover,
+button:focus,
+button:active,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+input[type="submit"]:active,
+input[type="button"]:hover,
+input[type="button"]:focus,
+input[type="button"]:active,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="reset"]:active {
+	background: #c69c6d;
+	border-color: #c69c6d;
+	outline: 0;
+}
+
+.entry-meta, .entry-meta * {
+	color: #c69c6d;
+	font-size: 14px;
+	font-weight:600;
+	line-height: 1.5;
+}
+
+#back-to-top:hover {
+	color: #c69c6d;
+}
+
+.widget button:hover,
+.widget button:focus,
+.widget button:active,
+.widget input[type="submit"]:hover,
+.widget input[type="submit"]:focus,
+.widget input[type="submit"]:active,
+.widget input[type="button"]:hover,
+.widget input[type="button"]:focus,
+.widget input[type="button"]:active,
+.widget input[type="reset"]:hover,
+.widget input[type="reset"]:focus,
+.widget input[type="reset"]:active {
+	border-color: #c69c6d;
+}
+
+
+.wp-block-file .wp-block-file__button:active,
+.wp-block-file .wp-block-file__button:focus,
+.wp-block-file .wp-block-file__button:hover,
+.wp-block-file .wp-block-file__button:visited,
+.wp-block-button .wp-block-button__link:active,
+.wp-block-button .wp-block-button__link:focus,
+.wp-block-button .wp-block-button__link:hover,
+.wp-block-button .wp-block-button__link:visited {
+	background-color: #c69c6d;
+	opacity: 1;
+}
+.infinite-scroll #infinite-handle span:hover {
+	color: #c69c6d;
+}

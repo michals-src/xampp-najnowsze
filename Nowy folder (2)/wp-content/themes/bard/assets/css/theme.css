@@ -1,0 +1,155 @@
+.site-container{
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (min-width: 576px) {
+  .site-container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .site-container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .site-container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .site-container {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .site-container {
+    max-width: 1380px;
+  }
+}
+.site-brand{
+	color: #000;
+	letter-spacing: 3.5px;
+	display: inline-block;
+	margin-right: 35px;
+	font-weight: 700;
+}
+.site-navbar{
+	padding:0;
+
+}
+.site-navbar-menu--clearfix{
+
+}
+
+.site-navbar-informations{
+	padding-top: 10px;
+	
+}
+	.site-navbar-informations .content{
+		padding-bottom: 10px;
+		border-bottom: 1px solid #f5f5f5;
+	}
+	.site-navbar-informations p,
+	.site-navbar-informations a{
+		color: #a9a9a9;
+	}
+	.site-navbar-informations p {
+		margin-bottom: 0;
+	}
+	.site-navbar-informations--contact p{
+		display: inline-block;
+		margin-right: 35px;
+	}
+.site-navbar-menu{
+	padding-top:20px;
+	padding-bottom: 20px;
+}
+
+ul.site-navbar-menu--nav{
+	list-style-type: none;
+	display: inline-block;
+}
+	.site-navbar-menu--nav li{
+		display: inline-block;
+		margin-right: 20px;
+		color: #7d7d7d;
+		font-size: 16px;
+		font-weight: 400;
+	}
+		.site-navbar-menu--nav li a{
+			color: #888;
+			text-decoration: none;
+		}
+		.site-navbar-menu--nav li a:hover,
+		.site-navbar-menu--nav li a:active{
+			color: #000;
+		}
+
+.square-box .image-container{
+	margin-bottom: 35px;
+	position: relative;
+	width: 100%;
+	background-color:#eee;
+	max-height: 550px;
+	overflow: hidden;
+}
+	.square-box .image-container img{
+		width: 100%;
+		height: 100%;
+		transition: transform 0.45s ease;
+	}
+		.square-box .image-container:hover img{
+			transform: scale(1.2);
+		}
+	.square-box .text-container{
+		padding: 15px;
+		margin-top: 40px;
+	}
+	.square-box .text-container h1,
+	.square-box .text-container h2,
+	.square-box .text-container h3{
+		margin-bottom: 25px;
+	}
+
+.section-info{
+	margin-top: 100px;
+	margin-bottom: 150px;
+}
+
+.footer_banner{
+	max-width: 1600px;
+	height: 65vh;
+}
+	.footer_banner img{
+		width: 100%;
+		height: 100%;
+	}
+
+footer{
+	margin-top: 10px;
+}
+.footer-middle{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.footer-text{
+	margin-top: 150px;
+}
+
+.site-content-header{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+.header--text-subline{
+	margin: 0;
+}
+.header--text-subline{
+	font-weight: 500;
+}

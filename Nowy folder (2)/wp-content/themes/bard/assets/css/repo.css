@@ -1,0 +1,19 @@
+.side-margins{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.side-lite-margins{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.site-section{
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+.border-decoration{
+	display: table;
+	border: 1px solid #000;
+	border-radius:15px;
+	padding:15px 25px;
+}

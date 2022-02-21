@@ -1,0 +1,4123 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-19 22:17:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "Thumbnail Style"
+msgstr "Styl ikony"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "Współczynnik proporcji 16:9"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "Współczynnik proporcji 4:3"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with gradient fills."
+msgstr "Zezwól na stylizację przy użyciu wypełnień gradientowych."
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "Style gradientowe"
+
+#: dist/coblocks.js:58
+msgid "Allow styling with custom colors."
+msgstr "Zezwól na stylizację przy użyciu kolorów niestandardowych."
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "Selektory kolorów niestandardowych"
+
+#: dist/coblocks.js:58
+msgid "Allow color settings throughout the editor."
+msgstr "Zezwól na ustawienia kolorów w całym edytorze."
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "Ustawienia kolorów"
+
+#: dist/coblocks.js:58
+msgid "Allow block-level typography controls."
+msgstr "Zezwól na elementy sterujące typografią na poziomie bloku."
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "Elementy sterujące typografią"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "Ustawienia edytora"
+
+#: includes/class-coblocks-settings.php:133
+msgid "Setting use to disable or enable gradient controls and presets across the site."
+msgstr "Ustawienie umożliwiające wyłączenie lub włączenie elementów sterujących i ustawień wstępnych gradientów w całej witrynie."
+
+#: includes/class-coblocks-settings.php:109
+msgid "Setting use to disable or enable custom color controls across the site."
+msgstr "Ustawienie umożliwiające wyłączenie lub włączenie elementów sterujących kolorami niestandardowymi w całej witrynie."
+
+#: includes/class-coblocks-settings.php:121
+msgid "Setting use to disable or enable all color controls across the site."
+msgstr "Ustawienie umożliwiające wyłączenie lub włączenie elementów sterujących kolorami w całej witrynie."
+
+#: includes/class-coblocks-settings.php:97
+msgid "Setting use to disable or enable typography controls across the site."
+msgstr "Ustawienie umożliwiające wyłączenie lub włączenie elementów sterujących typografią w całej witrynie."
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "Lokalizacja…"
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "Godzina…"
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "Wpisz opis wydarzenia…"
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "Wpisz tytuł wydarzenia…"
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "Rok…"
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "Miesiąc…"
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "Dzień…"
+
+#: dist/coblocks.js:58
+msgid "An event within the events block."
+msgstr "Wydarzenie w bloku wydarzeń."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "Pozycja wydarzenia"
+
+#: dist/coblocks.js:58
+msgid "Show events from the period (100 events max)."
+msgstr "Wyświetlaj wydarzenia z okresu (maks. 100 wydarzeń)."
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "Liczba wydarzeń na stronę"
+
+#: dist/coblocks.js:58
+msgid "Toggle to link a public calendar."
+msgstr "Przełącz, aby połączyć kalendarz publiczny."
+
+#: dist/coblocks.js:58
+msgid "Showing public calendar."
+msgstr "Wyświetlanie kalendarza publicznego."
+
+#: dist/coblocks.js:58
+msgid "Link a Calendar"
+msgstr "Połącz kalendarz"
+
+#: dist/coblocks.js:58
+msgid "Events Settings"
+msgstr "Ustawienia wydarzeń"
+
+#: dist/coblocks.js:58
+msgid "Add Event"
+msgstr "Dodaj wydarzenie"
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "Wprowadź adres URL tutaj…"
+
+#: dist/coblocks.js:58
+msgid "Edit Calendar URL"
+msgstr "Edytuj adres URL kalendarza"
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "Pobierz wszystkie"
+
+#: dist/coblocks.js:58
+msgid "1 Month"
+msgstr "1 miesiąc"
+
+#: dist/coblocks.js:58
+msgid "2 Weeks"
+msgstr "2 tygodnie"
+
+#: dist/coblocks.js:58
+msgid "1 Week"
+msgstr "1 tydzień"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "data"
+
+#: dist/coblocks.js:58
+msgid "Add a list of events or display events from a public calendar."
+msgstr "Dodaj listę wydarzeń lub wyświetl wydarzenia z kalendarza publicznego."
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "Wydarzenia"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "Wyczyść multimedia"
+
+#: src/blocks/events/index.php:122
+msgid "An error has occurred, check for calendar privileges to make sure it is public or try again later."
+msgstr "Wystąpił błąd. Sprawdź uprawnienia kalendarza, aby upewnić się, że jest publiczny, lub spróbuj ponownie później."
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "oprogramowanie"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "przesyłanie"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "ulepszanie"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "modny"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "rosnąca popularność"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "gorący"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "szkoła"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "dyplom"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "tytuł"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "ukończenie szkoły"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "absolwent"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "edukacja"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "pora roku"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "zima"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "zamrożony"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "lód"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "zimno"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "wysyłka"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "koszyk"
+
+#: dist/coblocks.js:58
+msgid "woo"
+msgstr "woo"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "inżynier"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "tworzenie"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "odznaka"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "mowa"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "język"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "bezpieczny"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "bezpieczeństwo"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "biometryczny"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "ochrona"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "zabezpieczenia"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "razem"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "zespół"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "widżet"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "wtyczka"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "handel elektroniczny"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "handel"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "sklep"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "kasa"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "gotówka"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "pieniądze"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "kwiat"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "ogrodnictwo"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "miły"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "zapach"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "aromat"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "kwiatek"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "uroczystość"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "impreza"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "krzesło"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "relaks"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "chłód"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "smak"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "łyżka"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "widelec"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "napój"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "jedzenie"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "drapacz chmur"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "miasto"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "budynek"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "korporacja"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "firma"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "lokalizacja"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "ziemia"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "globalny"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "publiczne"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "świat"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "lato"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "woda"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "na zewnątrz"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "dwór"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "minimalne"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "krajobraz"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "wzgórza"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "pole wyboru"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "znacznik"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "mapa"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "widżety"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "kwadrat"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "pola"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "pole"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "fale"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "radiowe"
+
+#: dist/coblocks.js:58
+msgid "wifi"
+msgstr "wifi"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "dostarczanie"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "wyślij"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "komentarz"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "odpowiedź"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "odpowiedz"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "list"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "czytanie"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "koncentrator"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "usb"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "surface"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "ipad"
+
+#: dist/coblocks.js:58
+msgid "office"
+msgstr "biuro"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "biurko"
+
+#: dist/coblocks.js:58
+msgid "pc"
+msgstr "pc"
+
+#: dist/coblocks.js:58
+msgid "apple"
+msgstr "apple"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "polubienie"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "ulubione"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "głos"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "ocena"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "pocałunek"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "walentynka"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "kształt"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "miłość"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "typografia"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "ołówek"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "czcionka"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "typ"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "sztuka"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "szkic"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "rysunek"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "grecki"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "radość"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "zabawa"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "uśmiech"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "emotikon"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "emocja"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "szczęśliwy"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "dane"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "kropki"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "graf"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "wykres"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "kołowy"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "statystyki"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "matematyka"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "okrągły"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "wstawianie"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "okrąg"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "dodawanie"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "pędzel"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "farba"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "kolory"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "paleta"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "producent"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "reżyser"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "wideografia"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "kolekcja"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "przysłona"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "aparat"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "fotografika"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "fotografik"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "zdjęcie"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "urządzenie"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "komputer"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "słuchawki"
+
+#: dist/coblocks.js:58
+msgid "bose"
+msgstr "bose"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "beats"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "audio"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "kreatywne"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "artysta"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "utwór"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "podcast"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "mikrofon"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "muzyka"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "projekt"
+
+#: dist/coblocks.js:58
+msgid "gutenberg"
+msgstr "gutenberg"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "budowanie"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "blok"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "Bloki"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "Prześlij plik multimedialny lub wybierz go z biblioteki mediów"
+
+#: dist/coblocks.js:58
+msgid "Offset Settings"
+msgstr "Ustawienia przesunięcia"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "Wyświetl obrazki w galerii z wzorem muru z przesunięciem"
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "Przesunięcie"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "Rezerwacja spotkania"
+
+#: dist/coblocks.js:58
+msgid "Special Notes"
+msgstr "Uwagi specjalne"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "Po południu"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "Rano"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "Godzina"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "Spotkanie"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "Uwagi?"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "Nie"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "Tak"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "Czy weźmiesz udział?"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "Plus jedna osoba"
+
+#: dist/coblocks.js:58
+msgid "RSVP"
+msgstr "RSVP"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "Skontaktuj się z nami"
+
+#: dist/coblocks.js:58
+msgid "Contact"
+msgstr "Kontakt"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "W polu tematu można używać następujących znaczników: "
+
+#: includes/class-coblocks-form.php:942 dist/coblocks.js:58
+msgid "name"
+msgstr "nazwa"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "Przesyłanie formularza od [%1$s]"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "Napisz podpis do galerii…"
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "Obszar multimediów"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "Dodaj tytuł…"
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "Tytuł menu…"
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "Dodaj przycisk…"
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "Wpisz tekst…"
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "Wpisz tytuł…"
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "Dodaj treść…"
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "Dodaj nagłówek…"
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "odnośniki"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "Profile społecznościowe"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "Ikona i tekst"
+
+#: dist/coblocks.js:58
+msgid "Text"
+msgstr "Tekst"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "Maska"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "społecznościowe"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "Udostępnij"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "Zaostrzony"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "Trójkątny"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "Zaokrąglony"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "Nachylony"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "Ukośny"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "Wzgórza"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "Falisty"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "Separator kształtów"
+
+#: dist/coblocks.js:58
+msgid "features"
+msgstr "funkcje"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "Usługi"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "Wpisz opis…"
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "Usługa"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "układy"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "kolumny"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "wiersze"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "Element cennika"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "porównanie"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "docelowa"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "Cennik"
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "suwak"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "Wyświetl wpisy lub zewnętrzny kanał blogu jako karuzelę."
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(brak tytułu)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "Kanał RSS"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "Poziomy"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "rss"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "najnowsze"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "blog"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "wpisy"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "Wyświetl wpisy lub kanał RSS jako karty w stosie lub poziomo."
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "Wpisy"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "film"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "obrazek"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "wskazówki"
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "google"
+
+#: dist/coblocks.js:58
+msgid "maps"
+msgstr "mapy"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "adres"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "Mapa"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "akapit"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "Wyróżnienie"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "Dodatkowy przycisk…"
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "Dodaj nagłówek frontalny…"
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "przycisk"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "Widżet frontalny"
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "Edytuj adres URL %s"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "Wróć do aplikacji %s"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "kod"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Gist"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "animowany"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "Gif"
+
+#: dist/coblocks.js:58
+msgid "Field Value"
+msgstr "Wartość pola"
+
+#: dist/coblocks.js:58
+msgid "Hidden Field Settings"
+msgstr "Ustawienia ukrytego pola"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "wejście"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "Ukryte pole tekstowe do zbierania dodatkowych danych."
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "adres URL"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "hiperłącze"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "Pole tekstowe do zbierania adresu URL."
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "Pole wyboru z wieloma opcjami, w którym można dokonać wielokrotnego wyboru."
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "lista rozwijana"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "Pole rozwijane z wieloma opcjami, w którym można wybrać tylko jedną opcję."
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "tekst wielowierszowy"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "tekst wiadomości"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "tekst"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "Obszar tekstowy"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "faks"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "mobilny"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "komórka"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "komórka"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "telefon"
+
+#: dist/coblocks.js:58
+msgid "Add Checkbox"
+msgstr "Dodaj pole wyboru"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "opcja"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "wybierz"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "wybierz"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "Przycisk opcji"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "nazwisko"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "imię"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "e-mail"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "rok"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "miesiąc"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "dzień"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "kalendarz"
+
+#: dist/coblocks.js:58
+msgid "contact"
+msgstr "kontakt"
+
+#: dist/coblocks.js:58
+msgid "about"
+msgstr "informacje"
+
+#: includes/class-coblocks-form.php:954 dist/coblocks.js:58
+msgid "email"
+msgstr "e-mail"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "Formularz"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "Element żywności"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "Lista"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "Siatka"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "restauracja"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "Żywność i napoje"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "Funkcje"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "To jest blok funkcji, za pomocą którego można wyróżniać funkcje."
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "Dodaj treść funkcji"
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "Tytuł funkcji"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "Dodaj tytuł funkcji…"
+
+#: dist/coblocks.js:58
+msgid "Feature"
+msgstr "Funkcja"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR Settings"
+msgstr "Ustawienia dynamicznej linijki poziomej"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "Pełna szerokość"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "Linia"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "Kropka"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "rozdzielacz"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "Dynamiczna linijka pozioma"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "Kolumna"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "Warstwowy"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "Kafelkowy"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "Kolaż"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "udostępnij"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "Kliknij, aby tweetnąć"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "Zawrzyj"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "Zasłoń"
+
+#: dist/coblocks.js:58
+msgid "Repeat Vertically"
+msgstr "Powtórz w pionie"
+
+#: dist/coblocks.js:58
+msgid "Repeat Horizontally"
+msgstr "Powtórz w poziomie"
+
+#: dist/coblocks.js:58
+msgid "No Repeat"
+msgstr "Bez powtarzania"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "W stosie na urządzeniu mobilnym"
+
+#: dist/coblocks.js:58
+msgid "Buttons Settings"
+msgstr "Ustawienia przycisków"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "wezwanie do działania"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "odnośnik"
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "Odnośnik autora…"
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "Przeciągnij, aby przesłać jako awatar"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "Joanna Kowalska‌‌"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "profil"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "biografia"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "Autor"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "Błąd"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "Ostrzeżenie"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "Sukces"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "Informacja"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "wiadomość"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "uwaga"
+
+#: dist/coblocks.js:58
+msgid "Display open"
+msgstr "Wyświetl otwartą"
+
+#: dist/coblocks.js:58
+msgid "Display Open"
+msgstr "Wyświetl otwarty"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "Wpisz tytuł elementu harmonijki…"
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "Element harmonijki"
+
+#: dist/coblocks.js:58
+msgid "Add Accordion Item"
+msgstr "Dodaj element harmonijki"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "karty"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "Harmonijka"
+
+#: dist/coblocks.js:21
+msgid "Image Zoom"
+msgstr "Powiększenie obrazka"
+
+#: dist/coblocks.js:21
+msgid "Vertical Pos."
+msgstr "Poz. pionowa"
+
+#: dist/coblocks.js:21
+msgid "Horizontal Pos."
+msgstr "Poz. pozioma"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "Górna fala"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "Dolna fala"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "3D"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "Kołowy"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "Pole wyboru"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "Karta multimediów"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "Ciemnofioletowy"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "Noc"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "Srebrny"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "Standardowy"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "pieczęć"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "nagrody"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "opinie"
+
+#: dist/coblocks.js:58
+msgid "proof"
+msgstr "dowód"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "klienci"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "Lekki"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "Ciemny"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "zdjęcia"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "galeria"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "Od wielkiej litery"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "Małe litery"
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "Podstawowy przycisk…"
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "Pogrubienie"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "Normalny"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "Wypełniony"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "Z konturem"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "ikony"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "Ikona"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "Przełącz, aby wyświetlić element %s w tym samym wierszu."
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "Wyświetlanie elementu %s w tym samym wierszu"
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "%s w tym samym wierszu"
+
+#: dist/coblocks.js:58
+msgid "Display Settings"
+msgstr "Ustawienia wyświetlania"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "Aktualizacja"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "Ogień"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "Szkoła"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "Płatek śniegu"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "Wysyłka"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "Warstwy"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "Flara"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "Nowy"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "Przetłumacz"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "Odcisk palca"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "Rozszerzenie"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "Karta kredytowa"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "Twórz"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "Kwiat"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "Ciasto"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "Kanapa"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "Jedzenie"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "Miejscowość"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "Glob"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "Fale"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "Góry"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "Bloki"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "Sygnał"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "Wyślij"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "Koncentrator"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "Klawiatura"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "Obejrzyj"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "Urządzenia"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "Komputer stacjonarny"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "Gwiazdka"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "Serce"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "Szkic"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "Funkcje"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "Emotikon"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "Ankieta"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "Punktowy"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "Wykres kołowy"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "Okrąg z minusem"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "Dodaj okrąg"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "Pędzel"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "Farba"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "Selektor kolorów"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "Kolorowa soczewka"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "Film"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "Galeria"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "Aparat"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "Przysłona"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "Głos"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "Wolumin"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "Zestaw słuchawkowy"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "Audio"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "Filtr klasyczny"
+
+#: dist/coblocks.js:58
+msgid "Dim Filter"
+msgstr "Filtr Przyciemniony"
+
+#: dist/coblocks.js:58
+msgid "Saturation Filter"
+msgstr "Filtr Nasycenie"
+
+#: dist/coblocks.js:58
+msgid "Sepia Filter"
+msgstr "Filtr Sepia"
+
+#: dist/coblocks.js:58
+msgid "Grayscale Filter"
+msgstr "Filtr Odcienie szarości"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "Oryginalny"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "Procent"
+
+#: dist/coblocks.js:58
+msgid "Viewport Height"
+msgstr "Wysokość okienka ekranu"
+
+#: dist/coblocks.js:58
+msgid "Viewport Width"
+msgstr "Szerokość okienka ekranu"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "Piksel"
+
+#: includes/class-coblocks-form.php:655 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "Ukryte"
+
+#: includes/class-coblocks-form.php:621 dist/coblocks.js:58
+msgid "Website"
+msgstr "Witryna"
+
+#: class-coblocks.php:82 class-coblocks.php:94
+msgid "Something went wrong."
+msgstr "Coś poszło nie tak."
+
+#: includes/class-coblocks-form.php:519 includes/class-coblocks-form.php:568
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "Wybierz"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "Uzyskaj kanał zewnętrzny"
+
+#: includes/class-coblocks-form.php:387 dist/coblocks.js:58
+msgid "Date"
+msgstr "Data"
+
+#: includes/class-coblocks-form.php:418 dist/coblocks.js:58
+msgid "Phone"
+msgstr "Telefon"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "Przeczytaj więcej"
+
+#: includes/class-coblocks-form.php:457 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "Wybierz jedną możliwość"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Wystąpił błąd, co prawdopodobnie oznacza, że kanał nie działa. Spróbuj ponownie później."
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "Pole do monitowania o wybór dat przy użyciu selektora dat."
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "Pole do uzyskiwania zweryfikowanego adresu e-mail."
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "Pole tekstowe do uzyskiwania imienia i nazwiska."
+
+#: dist/coblocks.js:58
+msgid "Map Controls"
+msgstr "Elementy sterujące mapą"
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "Pole z wieloma opcjami, w którym można wybrać tylko jedną opcję."
+
+#: dist/coblocks.js:58
+msgid "Add Option"
+msgstr "Dodaj opcję"
+
+#: dist/coblocks.js:58
+msgid "Marker Size"
+msgstr "Rozmiar markera"
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "Nieprawidłowy klucz API lub zbyt dużo żądań"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "Wybierz wstępny rozmiar ikon"
+
+#: src/blocks/post-carousel/index.php:185 src/blocks/posts/index.php:171
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(brak tytułu)"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "Wpisz opcję…"
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "Usuń opcję"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "Wpisy na blogu"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "Użyj adresu URL"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "Dodaj formularz kontaktowy do strony."
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "Popularne"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "Opcje precyzyjnego sterowania są włączone."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "Przełącz, aby włączyć opcje sterowania mapą."
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "Użyj kanału zewnętrznego"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "Nie znaleziono wpisów. Zacznij publikować lub dodaj wpisy z kanału RSS."
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "Zapisano"
+
+#: src/blocks/post-carousel/index.php:40 src/blocks/posts/index.php:40
+msgid "RSS Error:"
+msgstr "Błąd RSS:"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "Wyświetlanie elementu sterującego mapą pełnoekranową."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen Toggle"
+msgstr "Przełącznik pełnego ekranu"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "Przełącz, aby wyświetlić element sterujący widokiem ulic w prawym dolnym rogu."
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "Wyświetlanie elementu sterującego widokiem ulic na mapie."
+
+#: dist/coblocks.js:58
+msgid "Street View"
+msgstr "Widok ulic"
+
+#: dist/coblocks.js:58
+msgid "Enter Google API Key…"
+msgstr "Wprowadź klucz API Map Google…"
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "Potrzebujesz pomocy?"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "Uzyskaj klucz"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Dodaj klucz API Map Google Aktualizacja tego klucza spowoduje ustawienie wszystkich map w celu użycia nowego klucza."
+
+#: dist/coblocks.js:58
+msgid "Google Maps API Key"
+msgstr "Klucz API Map Google"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "Przełącz, aby wyświetlić element sterujący mapą pełnoekranową."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "Przełącz, aby włączyć powiększanie i pomniejszanie mapy przy użyciu elementów sterujących powiększeniem."
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "Wyświetlanie elementów sterujących powiększeniem mapy."
+
+#: dist/coblocks.js:58
+msgid "Zoom Controls"
+msgstr "Elementy sterujące powiększeniem"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "Przełącz, aby włączyć przełączanie między mapą standardową a satelitarną."
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "Przełączanie między widokami mapy standardowej i satelitarnej jest włączone."
+
+#: dist/coblocks.js:58
+msgid "Map Type"
+msgstr "Typ mapy"
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "Pole numeru telefonu umożliwiające gościom przekazanie Ci numeru telefonu."
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "Wyświetlanie daty publikacji."
+
+#: dist/coblocks.js:58
+msgid "Post Date"
+msgstr "Data wpisu"
+
+#: dist/coblocks.js:58
+msgid "Posts Settings"
+msgstr "Ustawienia wpisów"
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "Wprowadź lokalizację lub adres, aby upuścić pinezkę na mapie Google."
+
+#: dist/coblocks.js:58
+msgid "Select Map Style"
+msgstr "Wybierz styl mapy"
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "Wyszukaj miejsce lub adres…"
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "Wysokość mapy w pikselach"
+
+#: dist/coblocks.js:58
+msgid "Map Settings"
+msgstr "Ustawienia mapy"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "Poziom powiększenia"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "Edytuj adres URL kanału RSS"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "Obrazek po lewej"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "Obrazek po prawej"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "Adresy URL kanałów RSS znajdują się zwykle w katalogu /feed/ witryny."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "Przełącz, aby wyświetlić datę publikacji."
+
+#: dist/coblocks.js:58
+msgid "Post Content"
+msgstr "Treść wpisu"
+
+#: dist/coblocks.js:58
+msgid "Thumbnail Size"
+msgstr "Rozmiar miniatury"
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "Maks. liczba słów treści"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "Przełącz, aby wyświetlić treść wpisu."
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "Wyświetlanie treści wpisu."
+
+#: dist/coblocks.js:58
+msgid "Feed Settings"
+msgstr "Ustawienia kanału"
+
+#: dist/coblocks.js:58
+msgid "My Blog"
+msgstr "Mój blog"
+
+#: dist/coblocks.js:58
+msgid "External Feed"
+msgstr "Kanał zewnętrzny"
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "Liczba wpisów"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel Settings"
+msgstr "Ustawienia karuzeli wpisów"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "Karuzela wpisów"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "Okrąg"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "Kwadrat"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Houzz Profile"
+msgstr "Dodaj profil w Houzz"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Yelp Profile"
+msgstr "Dodaj profil w Yelp"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "Add YouTube Profile"
+msgstr "Dodaj profil na YouTube"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "Add LinkedIn Profile"
+msgstr "Dodaj profil na LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Pinterest Profile"
+msgstr "Dodaj profil w Pinterest"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Instagram Profile"
+msgstr "Dodaj profil na Instagramie"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Twitter Profile"
+msgstr "Dodaj profil na Twitterze"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "Add Facebook Profile"
+msgstr "Dodaj profil na Facebooku"
+
+#: dist/coblocks.js:58
+msgid "Profile Links"
+msgstr "Odnośniki do profili"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "Zwiększaj liczbę odbiorców dzięki odnośnikom do profili w mediach społecznościowych."
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "paleta projekt kolory artysta farba kreatywny multimedia"
+
+#: dist/coblocks.js:58
+msgid "Opening in New Tab"
+msgstr "Otwieranie w nowej karcie"
+
+#: dist/coblocks.js:58
+msgid "Link Rel"
+msgstr "Łącze relacji"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "Adres URL odnośnika"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "Brak wyników."
+
+#: dist/coblocks.js:58
+msgid "Icon Search"
+msgstr "Wyszukiwanie ikon"
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "Promień"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "Niestandardowy"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "Zastosuj niestandardowy rozmiar"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "Resetuj rozmiar ikon"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "Dodaj stylizowany symbol graficzny, aby przekazać coś więcej."
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "Udostępnij na LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "Ikony"
+
+#: dist/coblocks.js:58
+msgid "Button Size"
+msgstr "Rozmiar przycisku"
+
+#: dist/coblocks.js:58
+msgid "Circle Size"
+msgstr "Rozmiar okręgu"
+
+#: dist/coblocks.js:58
+msgid "Icon Size"
+msgstr "Rozmiar ikony"
+
+#: dist/coblocks.js:58
+msgid "Social Colors"
+msgstr "Kolory mediów społecznościowych"
+
+#: dist/coblocks.js:58
+msgid "Icon Settings"
+msgstr "Ustawienia ikony"
+
+#: dist/coblocks.js:58
+msgid "Icon Color"
+msgstr "Kolor ikony"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "Przełącz, aby użyć oficjalnych kolorów poszczególnych platform mediów społecznościowych."
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "Kolory przycisków udostępniania są włączone."
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "Dodaj odnośniki udostępniania w sieciach społecznościowych, które pomogą uzyskać polubienia i udostępnienia."
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "Przerzuć w pionie"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "Przerzuć w poziomie"
+
+#: dist/coblocks.js:58
+msgid "Shape Color"
+msgstr "Kolor kształtu"
+
+#: dist/coblocks.js:58
+msgid "Background Height in pixels"
+msgstr "Wysokość tła w pikselach"
+
+#: dist/coblocks.js:58
+msgid "Shape Height in pixels"
+msgstr "Wysokość kształtu w pikselach"
+
+#: dist/coblocks.js:58
+msgid "Divider Settings"
+msgstr "Ustawienia separatora"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "Dodaj separator kształtów, aby wizualnie odróżnić sekcje strony."
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "Przełącz, aby umieścić przyciski w stosie na urządzeniu mobilnym."
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "Układanie przycisków w stosie na urządzeniu mobilnym."
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "Przyciski"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "Zachęć gości do podjęcia działania przy użyciu wielu przycisków umieszczonych obok siebie."
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "Karuzela"
+
+#: dist/coblocks.js:58
+msgid "Responsive Height"
+msgstr "Responsywna wysokość"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "Ikony"
+
+#: dist/coblocks.js:58
+msgid "Carousel Settings"
+msgstr "Ustawienia karuzeli"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "Przełącz wysokość procentową."
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "Włączono wysokość procentową."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "Przełącz, aby wyświetlić ikony."
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "Wyświetlanie nawigacji po ikonach."
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "Wyświetl wiele obrazków w pięknej galerii karuzelowej."
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "Zastąp ten tekst opisem, który będzie towarzyszyć obrazkowi karty. Następnie dodaj więcej bloków do tej karty, takich jak przyciski, listy lub obrazki."
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "Multimedia po lewej"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "Multimedia po prawej"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "Przełącz, aby dodać cień obiektu %s."
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "Wyświetlanie cienia obiektu %s."
+
+#: dist/coblocks.js:58
+msgid " %s Shadow"
+msgstr " Cień obiektu %s"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "Przełącz, aby dodać cień karty."
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "Wyświetlanie cienia karty."
+
+#: dist/coblocks.js:58
+msgid "Card Shadow"
+msgstr "Cień karty"
+
+#: dist/coblocks.js:58
+msgid "Max Width"
+msgstr "Maks. szerokość"
+
+#: dist/coblocks.js:58
+msgid "Media Card Settings"
+msgstr "Ustawienia karty multimediów"
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "Dodaj obrazek lub film z przesunięciem karty obok siebie"
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "Upuść, aby zastąpić multimedia"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "multimedia"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "Edytuj multimedia"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Mur"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "Dodaj zaokrąglone rogi do elementów galerii."
+
+#: dist/coblocks.js:58
+msgid "Masonry Settings"
+msgstr "Ustawienia muru"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "Wyświetl wiele obrazków w uporządkowanej galerii murowanej."
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "Logo i odznaki"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "Edytuj logo"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "Czarno-biały"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "Dodaj logo, odznaki lub certyfikaty, aby budować wiarygodność."
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "Usuń"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "Zapisz"
+
+#: dist/coblocks.js:58
+msgid "Secret Key"
+msgstr "Klucz tajny"
+
+#: dist/coblocks.js:58
+msgid "Site Key"
+msgstr "Klucz witryny"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "Uzyskaj pomoc"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "Moje klucze"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "Wygeneruj klucze"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "Dodaj klucze reCAPTCHA witryny i tajny, aby ochronić formularz przed spamem."
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Form Settings"
+msgstr "Ustawienia formularzy"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "Temat"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "nazwa@przykład.com"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "Adres e-mail"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "%s nie są prawidłowymi adresami e-mail."
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s i %s nie są prawidłowymi adresami e-mail."
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s nie jest prawidłowym adresem e-mail."
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "Pole tekstowe dla dłuższych odpowiedzi."
+
+#: dist/coblocks.js:58
+msgid "Button Text Color"
+msgstr "Kolor tekstu przycisku"
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "Dodaj tekst…"
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "Przykładowy temat"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "Przełącz, aby dodać pole nazwiska."
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "Wyświetlanie pól imienia i nazwiska."
+
+#: dist/coblocks.js:58
+msgid "Last Name"
+msgstr "Nazwisko"
+
+#: dist/coblocks.js:58
+msgid "Name Field Settings"
+msgstr "Ustawienia pola imienia i nazwiska"
+
+#: dist/coblocks.js:58
+msgid "Color"
+msgstr "Kolor"
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "Wysokość elementu dynamicznego separatora w pikselach."
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "Dodaj rozdzielacz o zmiennym rozmiarze między innymi blokami."
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "Dodaj cytat do tweeta…"
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Nazwa użytkownika Twittera"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "Kolor przycisku"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "Najłatwiejszy sposób promowania i reklamowania bloga, witryny i firmy na Twitterze."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "Dodaj cytat dla czytelników do tweeta na Twitterze."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "0,00 USD"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "Dodaj opis…"
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "Ostre"
+
+#: dist/coblocks.js:58
+msgid "Item Attributes"
+msgstr "Atrybuty elementu"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "Przełącz, aby wyświetlić cenę tego elementu."
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "Wyświetlanie ceny tego elementu."
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "Cena"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "Przełącz, aby wyświetlić obrazek tego elementu."
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "Wyświetlanie obrazka tego elementu."
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "Obrazek"
+
+#: dist/coblocks.js:58
+msgid "Item Settings"
+msgstr "Ustawienia elementu"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "Element żywności i napoju w bloku Żywność i napoje."
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "Weganizm"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "Pescowegetariańskie"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "Bezglutenowe"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "Wegetariańskie"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "Pikantniejsze"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "Pikantne"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "Przełącz, aby wyświetlić cenę każdego elementu."
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "Wyświetlanie ceny każdego elementu"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "Ceny"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "Przełącz, aby wyświetlić obrazki dla każdego elementu."
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "Wyświetlanie obrazków dla każdego elementu"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "Obrazki"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks Settings"
+msgstr "Ustawienia bloku Żywność i napoje"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "Wyświetl menu lub cennik."
+
+#: dist/coblocks.js:58
+msgid "Add Menu Section"
+msgstr "Dodaj sekcję menu"
+
+#: dist/coblocks.js:58
+msgid "Back to Columns"
+msgstr "Powrót do kolumn"
+
+#: dist/coblocks.js:58
+msgid "Select Row Columns"
+msgstr "Wybierz kolumny wiersza"
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "Wybierz liczbę kolumn dla tego wiersza."
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "Wybierz układ dla tego wiersza z %s kolumnami."
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "Wiersz"
+
+#: dist/coblocks.js:58
+msgid "Row Layout"
+msgstr "Układ wierszy"
+
+#: dist/coblocks.js:58
+msgid "Four Columns"
+msgstr "Cztery kolumny"
+
+#: dist/coblocks.js:58
+msgid "Three Columns"
+msgstr "Trzy kolumny"
+
+#: dist/coblocks.js:58
+msgid "Two Columns"
+msgstr "Dwie kolumny"
+
+#: dist/coblocks.js:58
+msgid "One Column"
+msgstr "Jedna kolumna"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "Dodaj tło do wiersza"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "cztery"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "trzy"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "dwie"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "jedna"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "Zmień układ bloku wierszy"
+
+#: dist/coblocks.js:58
+msgid "Fifth / Fifth / Fifth / Two Fifths"
+msgstr "Jedna piąta / jedna piąta / jedna piąta / jedna piąta / jedna piąta"
+
+#: dist/coblocks.js:58
+msgid "Two Fifths / Fifth / Fifth / Fifth"
+msgstr "Dwie piąte / jedna piąta / jedna piąta / jedna piąta"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "Kwartały"
+
+#: dist/coblocks.js:58
+msgid "One Fifth/ Three Fifths / One Fifth"
+msgstr "Jedna piąta / trzy piąte / jedna piąta"
+
+#: dist/coblocks.js:58
+msgid "Quarter / Half / Quarter"
+msgstr "Jedna czwarta / połowa / jedna czwarta"
+
+#: dist/coblocks.js:58
+msgid "Quarter / Quarter/ Half"
+msgstr "Jedna czwarta / jedna czwarta / połowa"
+
+#: dist/coblocks.js:58
+msgid "Half / Quarter / Quarter"
+msgstr "Połowa / jedna czwarta / jedna czwarta"
+
+#: dist/coblocks.js:58
+msgid "Quarter / Three Quarters"
+msgstr "Jedna czwarta /trzy czwarte"
+
+#: dist/coblocks.js:58
+msgid "Three Quarters / Quarter"
+msgstr "Trzy czwarte / jedna czwarta"
+
+#: dist/coblocks.js:58
+msgid "One Third / Two Thirds"
+msgstr "Jedna trzecia / dwie trzecie"
+
+#: dist/coblocks.js:58
+msgid "Two Thirds / One Third"
+msgstr "Dwie trzecie / jedna trzecia"
+
+#: dist/coblocks.js:58
+msgid "Equal Split"
+msgstr "Równy podział"
+
+#: dist/coblocks.js:58
+msgid "Row Settings"
+msgstr "Ustawienia wierszy"
+
+#: dist/coblocks.js:58
+msgid "Select Row Layout"
+msgstr "Wybierz układ wierszy"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "Dodaj tło do kolumny"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "Szerokość"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "Odstęp wokół kontenera"
+
+#: dist/coblocks.js:58
+msgid "Column Settings"
+msgstr "Ustawienia kolumny"
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "Bezpośredni element podrzędny wiersza."
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "Dodaj strukturalną otoczkę dla bloków kolumn, a następnie dodaj żądane bloki treści do kolumn."
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "Plan %s"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "Zmień liczbę cenników"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "Cztery cenniki"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "Trzy cenniki"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "Dwa cenniki"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "Jeden cennik"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "Dodaj cenniki, aby pomóc gościom w porównywaniu produktów i planów."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "Dodaj cechy"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "Plan A"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "Kup teraz"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "Cennik pomagający gościom w porównywaniu produktów i planów."
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "Obsługa przeglądarki Internet Explorer możliwa poprzez wczytanie elementu polyfill JavaScript na tej stronie."
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "Dodaj obsługę przeglądarki Internet Explorer, wczytując element polyfill JavaScript."
+
+#: dist/coblocks.js:58
+msgid "Internet Explorer Support"
+msgstr "Obsługa przeglądarki Internet Explorer"
+
+#: dist/coblocks.js:58
+msgid "Accordion Settings"
+msgstr "Ustawienia harmonijki"
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "Organizuj treść za pomocą zwijanych elementów harmonijki."
+
+#: dist/coblocks.js:58
+msgid "Title Text Color"
+msgstr "Kolor tekstu tytułu"
+
+#: dist/coblocks.js:58
+msgid "Accordion Item Settings"
+msgstr "Ustawienia elementu harmonijki"
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "Przełącz, aby ustawić ten element harmonijki jako domyślnie otwarty."
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "Element harmonijki jest domyślnie otwarty."
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "Dodaj zwijane elementy harmonijki do harmonijek."
+
+#: dist/coblocks.js:58
+msgid "Features Settings"
+msgstr "Ustawienia funkcji"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "Dodaj do czterech kolumn niewielkich uwag dotyczących produktu lub usługi."
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "Dodaj jako tło"
+
+#: dist/coblocks.js:58
+msgid "Feature Settings"
+msgstr "Ustawienia funkcji"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "Pojedyncza kolumna podrzędna w nadrzędnym bloku funkcji."
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "Alert to komunikat wyświetlany poza przepływem typowej treści. Alerty zapewniają uwagi kontekstowe, zwykle prosząc czytelników o podjęcie działania."
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "To jest blok alertu"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "Podaj komunikaty lub powiadomienia uwagi kontekstowej."
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "Edytuj lokalizację"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "Dodaj adres lub lokalizację, aby upuścić pinezkę na mapie Google."
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Mapa Google"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Przełącz, aby wyświetlić przyciski z wezwaniem do działania."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Wyświetlanie przycisków z wezwaniem do działania."
+
+#: dist/coblocks.js:58
+msgid "Action Buttons"
+msgstr "Przyciski działań"
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "Kolumny"
+
+#: dist/coblocks.js:58
+msgid "Services Settings"
+msgstr "Ustawienia usług"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "Style"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "Dodaj maksymalnie cztery kolumny usług do wyświetlenia."
+
+#: dist/coblocks.js:58
+msgid "Image Settings"
+msgstr "Ustawienia obrazków"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Przełącz, aby wyświetlić przycisk z wezwaniem do działania."
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Wyświetlanie przycisku z wezwaniem do działania."
+
+#: dist/coblocks.js:58
+msgid "Action Button"
+msgstr "Przycisk działania"
+
+#: dist/coblocks.js:58
+msgid "Service Settings"
+msgstr "Ustawienia usługi"
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "Pojedynczy element usługi w bloku usług."
+
+#: dist/coblocks.js:58
+msgid "Bottom Right"
+msgstr "Po prawej u dołu"
+
+#: dist/coblocks.js:58
+msgid "Bottom Center"
+msgstr "Na środku u dołu"
+
+#: dist/coblocks.js:58
+msgid "Bottom Left"
+msgstr "Po lewej u dołu"
+
+#: dist/coblocks.js:58
+msgid "Center Right"
+msgstr "Na środku po prawej"
+
+#: dist/coblocks.js:58
+msgid "Center Center"
+msgstr "Na środku pośrodku"
+
+#: dist/coblocks.js:58
+msgid "Center Left"
+msgstr "Na środku po lewej"
+
+#: dist/coblocks.js:58
+msgid "Top Right"
+msgstr "Po prawej u góry"
+
+#: dist/coblocks.js:58
+msgid "Top Center"
+msgstr "Na środku u góry"
+
+#: dist/coblocks.js:58
+msgid "Top Left"
+msgstr "Po lewej u góry"
+
+#: dist/coblocks.js:58
+msgid "Caption Style"
+msgstr "Styl podpisu"
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "Cień"
+
+#: dist/coblocks.js:58
+msgid "Collage Settings"
+msgstr "Ustawienia kolażu"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "Rozmieść obrazek w pięknej galerii kolażowej."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "Napisz biografię, która wyjaśnia czytelnikom obiektywną wiarygodność i autorytet…"
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "Wpisz imię i nazwisko autora…"
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "Edytuj awatar"
+
+#: dist/coblocks.js:58
+msgid "Author Settings"
+msgstr "Ustawienia autora"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "Urodzony, by się wyrażać, a nie imponować. Twórca, który tworzy świat pasujący do jego oczekiwań."
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "Dodaj biografię autora, aby zbudować wiarygodność i autorytet."
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "obrazek %1$d z %2$d w galerii"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "W stosie"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "Jasny"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "Podpisy"
+
+#: dist/coblocks.js:58
+msgid "Box Shadow"
+msgstr "Cień ramki"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth Image"
+msgstr "Obrazek o pełnej szerokości"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth Images"
+msgstr "Obrazki o pełnej szerokości"
+
+#: dist/coblocks.js:58
+msgid "Stacked Settings"
+msgstr "Ustawienia stosu"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "Przełącz, aby włączyć lightbox obrazka."
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "Lightbox obrazka jest włączony"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "Przełącz, aby wyświetlić podpisy multimediów."
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "Wyświetlanie podpisów dla każdego elementu multimedialnego."
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "Przełącz, aby wypełnić całkowicie obszar galerii obrazkami o pełnej szerokości."
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "Obrazki o pełnej szerokości są włączone"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "Wyświetl wiele obrazków w galerii z jedną kolumną w stosie."
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Wczytywanie gistu"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "Dodaj adres URL gistu GitHub…"
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Metadane gistu"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Plik gistu"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "Adres URL gistu"
+
+#: dist/coblocks.js:58
+msgid "Gist Settings"
+msgstr "Ustawienia gistu"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Przełącz, aby wyświetlić metadane gistu."
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "Wyświetlanie metadanych gistu."
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Osadź gisty GitHub, dodając odnośnik do gistu."
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "Zobacz ten gist w serwisie GitHub"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "Wyszukaj pliki GIF"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Wyszukaj idealny plik GIF w serwisie Giphy"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "Ten plik GIF ma pusty atrybut alt"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "Usuń plik GIF"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "Pozostaw pusty, jeśli obrazek służy wyłącznie do dekoracji."
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "Opisz cel tego obrazka"
+
+#: dist/coblocks.js:58
+msgid "Alt Text (Alternative Text)"
+msgstr "Tekst alternatywny"
+
+#: dist/coblocks.js:58
+msgid "Gif Settings"
+msgstr "Ustawienia pliku GIF"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "Wybierz dowolny plik GIF."
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "Przełącz, aby usunąć margines dolny."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "Przełącz, aby dodać ponownie margines dolny."
+
+#: dist/coblocks.js:58
+msgid "Remove Bottom Spacing"
+msgstr "Usuń odstęp od dołu"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "Przełącz, aby usunąć margines górny."
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "Przełącz, aby dodać ponownie margines górny."
+
+#: dist/coblocks.js:58
+msgid "Remove Top Spacing"
+msgstr "Usuń odstęp od góry"
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "Przełącz, aby umieszczać elementy w stosach w mniejszych okienkach ekranu."
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "Responsywność jest włączona."
+
+#: dist/coblocks.js:58
+msgid "Stack on Mobile"
+msgstr "W stosie na urządzeniu mobilnym"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "Przełącz, aby wyświetlić przycisk w pełnej szerokości."
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "Wyświetlanie w pełnej szerokości"
+
+#: dist/coblocks.js:58
+msgid "Display Fullwidth"
+msgstr "Wyświetl w pełnej szerokości"
+
+#: dist/coblocks.js:21
+msgid "Crop Settings"
+msgstr "Ustawienia przycinania"
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "Resetuj opcje przycinania obrazka"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "Obróć w prawo"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "Obróć w lewo"
+
+#: dist/coblocks.js:21
+msgid "Image Orientation"
+msgstr "Orientacja obrazka"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "Element zastępczy obrazka ustawień przycinania"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "Dziesięć sekund"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "Dziewięć sekund"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "Osiem sekund"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "Siedem sekund"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "Sześć sekund"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "Pięć sekund"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "Cztery sekundy"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "Trzy sekundy"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "Dwie sekundy"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "Jedna sekunda"
+
+#: dist/coblocks.js:58
+msgid "Align Cells"
+msgstr "Wyrównaj komórki"
+
+#: dist/coblocks.js:58
+msgid "Dot Navigation"
+msgstr "Nawigacja kropkami"
+
+#: dist/coblocks.js:58
+msgid "Arrow Navigation"
+msgstr "Nawigacja strzałkami"
+
+#: dist/coblocks.js:58
+msgid "Free Scroll"
+msgstr "Swobodne przewijanie"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "Możliwość przeciągania"
+
+#: dist/coblocks.js:58
+msgid "Pause on Hover"
+msgstr "Wstrzymaj po umieszczeniu wskaźnika"
+
+#: dist/coblocks.js:58
+msgid "Transition Speed"
+msgstr "Szybkość przejścia"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "Automatyczne odtwarzanie"
+
+#: dist/coblocks.js:58
+msgid "Slider Settings"
+msgstr "Ustawienia suwaka"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "Przełącz, aby włączyć przewijanie bez zablokowanych slajdów."
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "Włączono przewijanie bez zablokowanych slajdów."
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "Przełącz, aby wstrzymać automatyczne odtwarzanie po umieszczeniu wskaźnika."
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "Wstrzymywanie automatycznego odtwarzania po umieszczeniu wskaźnika."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "Wyrównywanie slajdów do środka."
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "Wyrównywanie slajdów do lewej."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "Przełącz, aby wyświetlić nawigację kropkami."
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "Wyświetlanie nawigacji kropkami."
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "Przełącz, aby wyświetlić strzałki nawigacji między slajdami."
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "Wyświetlanie strzałek nawigacji między slajdami."
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "Przełącz, aby włączyć funkcję przeciągania."
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "Przeciąganie i przesuwanie włączone."
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "Przejdź automatycznie do następnego slajdu."
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "Przejście dalej po %1$d %2$s."
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "Domyślny"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "Selektor kolorów niestandardowych"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "Niestandardowy adres URL"
+
+#: dist/coblocks.js:58
+msgid "Attachment Page"
+msgstr "Strona załącznika"
+
+#: dist/coblocks.js:58
+msgid "Media File"
+msgstr "Plik multimedialny"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Przeciągnij obrazki, prześlij nowe lub wybierz pliki z biblioteki."
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "Galeria typu %s"
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "Wpisz podpis…"
+
+#: dist/coblocks.js:58
+msgid "Move Image Forward"
+msgstr "Przenieś obrazek do przodu"
+
+#: dist/coblocks.js:58
+msgid "Move Image Backward"
+msgstr "Przenieś obrazek do tyłu"
+
+#: dist/coblocks.js:58
+msgid "Open in New Tab"
+msgstr "Otwórz w nowej karcie"
+
+#: dist/coblocks.js:58
+msgid "Link To"
+msgstr "Odnośnik do"
+
+#: dist/coblocks.js:58
+msgid "Link Settings"
+msgstr "Ustawienia odnośnika"
+
+#: dist/coblocks.js:58
+msgid "Select Size"
+msgstr "Wybierz rozmiar"
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "Bardzo duży"
+
+#: dist/coblocks.js:58
+msgid "No Bottom Spacing"
+msgstr "Brak odstępu od dołu"
+
+#: dist/coblocks.js:58
+msgid "No Top Spacing"
+msgstr "Brak odstępu od góry"
+
+#: dist/coblocks.js:58
+msgid "Letter Spacing"
+msgstr "Odstępy między literami"
+
+#: dist/coblocks.js:58
+msgid "Line Height"
+msgstr "Wysokość wiersza"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "Rozmiar"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "Przekształć"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "Grubość"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "Czcionka"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "Zmień typografię"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "Zastosuj filtr"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "Wielkie litery"
+
+#: dist/coblocks.js:58
+msgid "%s Galleries"
+msgstr "Galerie typu %s"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "Nagłówek %d"
+
+#: dist/coblocks.js:58
+msgid "Text Settings"
+msgstr "Ustawienia tekstu"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "Dodaj wyróżniony tekst…"
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "Dodaj efekt wyróżnienia do tekstu akapitu, aby przyciągnąć uwagę i podkreślać ważną narrację."
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "Przyciągaj uwagę i podkreślaj ważną narrację."
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "Okres"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "Zmień układ"
+
+#: dist/coblocks.js:58
+msgid "Text Color"
+msgstr "Kolor tekstu"
+
+#: dist/coblocks.js:58
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: dist/coblocks.js:58
+msgid "Color Settings"
+msgstr "Ustawienia kolorów"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "Szerokość treści w pikselach"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "Wysokość w pikselach"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "Miejsce w kontenerze"
+
+#: dist/coblocks.js:58
+msgid "Hero Settings"
+msgstr "Ustawienia widżetu frontalnego"
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "Dodaj tło do widżetu frontalnego"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "Dodaj zawartość frontalną, która zwykle stanowi obszar wprowadzenia strony wraz z jednym lub dwoma wezwaniami do działania."
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "Obszar wprowadzenia do strony, któremu towarzyszy niewielka ilość tekstu i wezwanie do działania."
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "Ogromny"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "Duży"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "Średni"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "Mały"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "Brak"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "Usuń tło"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "Przełącz, aby zapętlić film."
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "Zapętlanie filmu w tle."
+
+#: dist/coblocks.js:58
+msgid "Loop Video"
+msgstr "Zapętlij film"
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "Przełącz, aby wyciszyć film."
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "Wyciszanie filmu w tle."
+
+#: dist/coblocks.js:58
+msgid "Mute Video"
+msgstr "Wycisz film"
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "Wyświetl"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "Pozycja"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "Powtórz"
+
+#: dist/coblocks.js:58
+msgid "Rounded Corners"
+msgstr "Zaokrąglone rogi"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "Dopełnienie"
+
+#: dist/coblocks.js:58
+msgid "Background Opacity"
+msgstr "Nieprzezroczystość tła"
+
+#: dist/coblocks.js:58
+msgid "Focal Point"
+msgstr "Punkt centralny"
+
+#: dist/coblocks.js:58
+msgid "Fixed Background"
+msgstr "Stałe tło"
+
+#: dist/coblocks.js:58
+msgid "Background Settings"
+msgstr "Ustawienia tła"
+
+#: dist/coblocks.js:58
+msgid "Background"
+msgstr "Tło"
+
+#: dist/coblocks.js:58
+msgid "Remove Background"
+msgstr "Usuń tło"
+
+#: dist/coblocks.js:58
+msgid "Edit Background"
+msgstr "Edytuj tło"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "Zastosuj"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "Zapisywanie"
+
+#: dist/coblocks.js:58
+msgid "Remove Image"
+msgstr "Usuń obrazek"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "Upuść obrazek, aby zastąpić"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "Wysokość"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "Przełącz, aby włączyć tryb pełnoekranowy."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "Pełny ekran jest włączony."
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "Pełny ekran"
+
+#: dist/coblocks.js:58
+msgid "Select Layout"
+msgstr "Wybierz układ"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "Układ"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "Wymagane"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "Dodaj etykietę…"
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "%s dla urządzeń mobilnych"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "Oprawa"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "Ustawienia zaawansowane %s"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "Lewo"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "Dół"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "Prawo"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "Góra"
+
+#: dist/coblocks.js:58
+msgid "Sync Units"
+msgstr "Synchronizuj jednostki"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "Synchronizuj"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "Wyłącz synchronizację"
+
+#: dist/coblocks.js:58
+msgid "%s Left"
+msgstr "%s po lewej"
+
+#: dist/coblocks.js:58
+msgid "%s Bottom"
+msgstr "%s u dołu"
+
+#: dist/coblocks.js:58
+msgid "%s Right"
+msgstr "%s po prawej"
+
+#: dist/coblocks.js:58
+msgid "%s Top"
+msgstr "%s u góry"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "Zresetuj"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "Wyłącz ustawienia zaawansowane %s"
+
+#: dist/coblocks.js:58
+msgid "%s Units"
+msgstr "Jednostki %s"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "Wybierz jednostki"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "Margines"
+
+#: src/blocks/social-profiles/index.php:96 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: src/blocks/social-profiles/index.php:92 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:88 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:83
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: src/blocks/social-profiles/index.php:79 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:75 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:71 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/blocks/social-profiles/index.php:67 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Udostępnij na Reddicie"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Udostępnij na Google"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Udostępnij na Tumblr"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "Udostępnij pocztą e-mail"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "Udostępnij na LinkedIn"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Udostępnij w Pinterest"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "Udostępnij na Twitterze"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Udostępnij na Facebooku"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "Sprawdź CoBlocks na stronie WordPress.org"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "Napisz recenzję"
+
+#: includes/class-coblocks-google-map-block.php:116
+msgid "Google Map API key for map rendering"
+msgstr "Klucz API Mapy Google do renderowania mapy"
+
+#: includes/class-coblocks-form.php:999
+msgid "Your message was sent:"
+msgstr "Twoja wiadomość została wysłana:"
+
+#: includes/class-coblocks-form.php:734
+msgid "Submit"
+msgstr "Prześlij"
+
+#: includes/class-coblocks-form.php:346 dist/coblocks.js:58
+msgid "Message"
+msgstr "Komunikat"
+
+#: includes/class-coblocks-form.php:261 dist/coblocks.js:58
+msgid "Last"
+msgstr "Nazwisko"
+
+#: includes/class-coblocks-form.php:260 dist/coblocks.js:58
+msgid "First"
+msgstr "Imię"
+
+#: includes/class-coblocks-form.php:256 dist/coblocks.js:58
+msgid "Name"
+msgstr "Nazwa"
+
+#: includes/class-coblocks-form.php:221 includes/class-coblocks-form.php:316
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "Klucz tajny usługi Google reCAPTCHA do ochrony formularzy przed spamem"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "Klucz witryny usługi Google reCAPTCHA do ochrony formularzy przed spamem"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks to pakiet profesjonalnych <strong>bloków zawartości budowania strony</strong> dla edytora blokowego WordPress Gutenberg. Nasze bloki skupiają się na zapewnianiu twórcom możliwości budowania pięknych i rozbudowanych stron w systemie WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://coblocks.com"
+msgstr "https://coblocks.com"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"

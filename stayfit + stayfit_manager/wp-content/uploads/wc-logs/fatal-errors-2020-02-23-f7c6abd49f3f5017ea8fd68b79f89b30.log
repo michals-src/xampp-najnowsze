@@ -1,0 +1,47 @@
+2020-02-23T15:32:39+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Sf_Monitor::__construct() must be an instance of Sf_User, string given, called in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php on line 39 and defined in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-monitor.php:7
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(39): Sf_Monitor->__construct('140')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(106): Sf_Dashboard->client_manager('person')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 E:\ w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-monitor.php w linii 7
+
+2020-02-23T15:42:57+00:00 CRITICAL Uncaught Error: Call to a member function get_date_buy() on null in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:199
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(106): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(28): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\ w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 199
+
+2020-02-23T20:15:42+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Query::get_catalog_ordering_args() in E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php:199
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php(60): WC_Shortcode_Products->parse_query_args()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(265): WC_Shortcode_Products->__construct(Array, 'products')
+#2 E:\Dev\xampp\htdocs\wp-content\themes\storefront\inc\storefront-functions.php(35): WC_Shortcodes::products(Array, NULL, 'products')
+#3 E:\Dev\xampp\htdocs\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php(321): storefront_do_shortcode('products', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(288): storefront_recent_products(Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\p w E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php w linii 199
+
+2020-02-23T20:25:45+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in E:\Dev\xampp\htdocs\wp-includes\query.php:28
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(17): get_query_var('pagename', 1)
+#1 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(288): aa('')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 E:\Dev\xampp\htdocs\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\Dev\xampp\htdocs\wp-settings.php(392): do_action('plugins_loaded')
+#5 E:\Dev\xampp\htdocs\wp-config.php(90): require_once('E:\\Dev\\xampp\\ht...')
+#6 E:\Dev\xampp\htdocs\wp-load.php(37): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-blog-header.php(13): require_once('E:\\Dev\\xampp\\ht...')
+#8 E:\Dev\xampp\htdocs\index.php(17): require('E:\\Dev\\xampp\\ht...')
+#9 {main}
+  thrown w E:\Dev\xampp\htdocs\wp-includes\query.php w linii 28
+
+2020-02-23T20:54:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\includes\libraries\action-scheduler\functions.php w linii 17
+

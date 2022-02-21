@@ -1,0 +1,1186 @@
+# Translation of Themes - Blover in Polish
+# This file is distributed under the same license as the Themes - Blover package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-14 09:49:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Themes - Blover\n"
+
+#. Description of the plugin/theme
+msgid "If you are looking for the perfect template for yourself, you've come to the right place, because Blover is the perfect theme for you. Blover is created by passionate people who strive to make their products meet the expectations of the user. That's why we are always happy to hear from you. Our goal is to improve our products and adapt them to your needs. Our satisfaction is to make our user happy. Blover is a beautiful  free e-commerce WordPress Theme. Great for a website such as a blog or magazine, but also ideally suited as a WooCommerce website that impresses with its professional appearance.  Simply, clean and modern design with elegant details will makes your website unique and special. Blover creates a good user experience by focusing on content. Therefore, if you are the owner of an online store selling products will be very simple with our theme. Blover is  extremely easy to customize - allows you to create a stunning website in minutes and fully responsive – perfect fit for all devices. Suitable for all types of blog, magazine, news, newspaper, e-commerce shop, fashion website, startups or any small and corporate business. If you are blogger, photographer, designer, traveler, store owner, illustrator, food lovers, salesman and you have something important to tell Blover is perfect for you. Blover is well coded with care to details and fully compatible with WooCommerce. Blover has many features including: 4 Homepage Layouts, 4 Post Formats, 2 Page Layouts, 2 Single Post Layouts, 6 Widget Areas, 2 Menus: Top Menu & Left Menu (main, mobile menu – toggled with button), all Theme Options Easily Customized by Native WordPress Customizer (Live Preview), Translation Ready, 3 Pagination styles, Responsive Design, Sticky Sidebarand much much more. Check the demo here: https://fatthemes.com/blover/ and get free support here: https://fatthemes.com/support/ See our other themes here:https://fatthemes.com/wordpress-themes/  Thank you for choosing Blover the best WordPress blog / magazine & shop theme in 2018 with great support and friendly help:). If you have any questions, comments or suggestions about our theme, we’d love to hear from you :)"
+msgstr "Jeśli szukasz idealnego szablonu dla siebie, jesteś we właściwym miejscu. Blover jest idealnym motywem dla Ciebie. Blover jest tworzony przez pasjonatów, którzy starają się, aby ich produkty spełniały oczekiwania użytkownika. Dlatego zawsze cieszymy się z kontaktu z naszymi użytkownikami. Naszym celem jest ulepszenie naszych produktów i dostosowanie ich do Twoich potrzeb. Nasza satysfakcja to uszczęśliwienie naszego użytkownika. Blover to piękny, darmowy motyw WordPressa. Idealny dla strony internetowej takiej jak blog lub czasopismo. Doskonale sprawdzi się również jako witryna WooCommerce, która zachwyca swoim profesjonalnym wyglądem. Po prostu czysty i nowoczesny design z eleganckimi detalami sprawi, że Twoja strona będzie wyjątkowa. Blover zapewnia dobre wrażenia użytkownika, koncentrując się na treści. Dlatego, jeśli jesteś właścicielem sklepu internetowego, sprzedaż produktów będzie bardzo prosta. Blover jest niezwykle łatwy w dostosowaniu - pozwala stworzyć oszałamiającą, w pełni responsywną stronę internetową w kilka minut. Nadaje się do wszystkich typów blogów, czasopism, wiadomości, gazet, sklepów e-commerce, strony z modą, startupów oraz małych i korporacyjnych firm. Jeśli jesteś blogerem, fotografem, projektantem, podróżnikiem, właścicielem sklepu, ilustratorem, miłośnikiem jedzenia, sprzedawcą i masz coś ważnego do powiedzenia Blover jest idealny dla ciebie. Blover jest dobrze zakodowany z dbałością o najdrobniejsze detale, w pełni kompatybilny z WooCommerce. Motyw Blover ma wiele funkcji, w tym: 4 układy na stronie głównej, 4 formaty wpisów, 2 układy stron, 2 układy pojedynczych wpisów, 6 obszarów widgetów, 2 menu: górne menu i lewe menu (główne, mobilne menu - włączane za pomocą przycisku), wszystkie opcje dostępne w Personalizacji WordPressa z podglądem na żywo, gotowe tłumaczenie, 3 style paginacji, responsywny design, płynny panel boczny i wiele więcej. Sprawdź demo Blovera albo zobacz nasze inne motywy. Dziękujemy że wybrałeś nasz motyw. Jeśli masz jakieś pytania, komentarze lub sugestie dotyczące naszego motywu, nie krępuj się i napisz do nas."
+
+#. Theme Name of the plugin/theme
+msgid "Blover"
+msgstr "Blover"
+
+#: inc/customizer.php:662
+msgid "Load fonts from Google servers"
+msgstr "Wczytaj czcionki z serwerów Google"
+
+#: inc/customizer.php:518
+msgid "Show Full Width Image"
+msgstr "Pokaż obrazek na całej szerokości ekranu"
+
+#: inc/customizer.php:535
+msgid "Enable Padding for Header Image"
+msgstr "Włącz margines dla obrazka nagłówka"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "Brak panelu bocznego"
+
+#: template-parts/content-single-audio.php:17
+#: template-parts/content-single-gallery.php:17
+#: template-parts/content-single-video.php:17
+#: template-parts/content-single.php:18
+msgid "Attachment page"
+msgstr "Strona załącznika"
+
+#: template-parts/content-none.php:41
+msgid "Perhaps searching can help."
+msgstr "Spróbuj wyszukać."
+
+#: template-parts/content-none.php:41
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Wygląda na to, że nie znaleziono tego co szukasz."
+
+#: template-parts/content-none.php:36
+msgid "Please try again with some different keywords."
+msgstr "Proszę, spróbuj ponownie z innymi słowami kluczowymi."
+
+#: template-parts/content-none.php:36
+msgid "Sorry, but nothing matched your search terms."
+msgstr "Niestety, ale nie znaleziono niczego pasującego do wyszukiwanej frazy."
+
+#. Translators: url to "new post" screen in admin panel.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gotowy, by opublikować swój pierwszy wpis? <a href=\"%1$s\">Zacznij tutaj</a>"
+
+#: template-parts/content-home-classic.php:15
+#: template-parts/content-home-list.php:28
+#: template-parts/content-home-list.php:54
+#: template-parts/content-home-masonry.php:26
+#: template-parts/content-home-slider.php:36
+#: template-parts/content-home-slider.php:50 template-parts/content-home.php:27
+#: template-parts/content-single-audio.php:19
+#: template-parts/content-single-gallery.php:19
+#: template-parts/content-single-video.php:19
+#: template-parts/content-single.php:20
+msgid "<span> &#124; </span>"
+msgstr "<span> &#124; </span>"
+
+#: single.php:34
+msgid "Previous article"
+msgstr "Poprzedni artykuł"
+
+#: single.php:35
+msgid "Next article"
+msgstr "Następny artykuł"
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Szukaj:"
+
+#: searchform.php:12
+msgid "Type and hit enter"
+msgstr "Wpisz i naciśnij Enter"
+
+#: searchform.php:11
+msgid "Search for: "
+msgstr "Szukaj:"
+
+#: search.php:54
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+#. Translators: search query.
+#: search.php:28
+msgid "Search Results for: %s"
+msgstr "Wyniki Wyszukiwania dla: %s"
+
+#: page.php:48 template-page-nosidebar.php:45
+#: template-parts/content-single-audio.php:57
+#: template-parts/content-single-gallery.php:56
+#: template-parts/content-single-video.php:57
+#: template-parts/content-single.php:47
+msgid "Pages:"
+msgstr "Strony:"
+
+#: index.php:31
+msgid "Latest Posts"
+msgstr "Najnowsze Wpisy"
+
+#: inc/tgmpa-plugins.php:80
+msgid "Liveblog"
+msgstr "Liveblog"
+
+#: inc/tgmpa-plugins.php:73
+msgid "AMP"
+msgstr "AMP"
+
+#: inc/tgmpa-plugins.php:66
+msgid "User Social Profiles"
+msgstr "User Social Profiles"
+
+#: inc/tgmpa-plugins.php:59
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/tgmpa-plugins.php:52
+msgid "MailChimp for WordPress"
+msgstr "MailChimp for WordPress"
+
+#: inc/tgmpa-plugins.php:38
+msgid "Jetpack by WordPress.com"
+msgstr "Jetpack by WordPress.com"
+
+#: inc/tgmpa-plugins.php:31
+msgid "WordPress Popular Posts"
+msgstr "WordPress Popular Posts"
+
+#: inc/template-tags.php:725
+msgid "Your Review"
+msgstr "Twoja opinia"
+
+#: inc/template-tags.php:721
+msgid "Very Poor"
+msgstr "Bardzo słaby"
+
+#: inc/template-tags.php:720
+msgid "Not that bad"
+msgstr "Może być"
+
+#: inc/template-tags.php:719
+msgid "Average"
+msgstr "Średni"
+
+#: inc/template-tags.php:718
+msgid "Good"
+msgstr "Dobry"
+
+#: inc/template-tags.php:717
+msgid "Perfect"
+msgstr "Świetny"
+
+#: inc/template-tags.php:716
+msgid "Rate&hellip;"
+msgstr "Oceń&hellip;"
+
+#: inc/template-tags.php:715
+msgid "Your Rating"
+msgstr "Twoja ocena"
+
+#: inc/template-tags.php:711
+msgid "logged in"
+msgstr "zalogowany"
+
+#. Translators: url to "my account" page.
+#: inc/template-tags.php:711
+msgid "You must be %s to post a review."
+msgstr "Musisz być %s, aby opublikować recenzję."
+
+#. Translators: comment title.
+#: inc/template-tags.php:695
+msgid "Leave a Reply to %s"
+msgstr "Dodaj Komentarz do %s"
+
+#: inc/template-tags.php:703
+msgid "Submit"
+msgstr "Zatwierdź"
+
+#: inc/template-tags.php:693
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Napisz pierwszą opinię o &ldquo;%s&rdquo;"
+
+#. Translators: woocommerce product.
+#: inc/template-tags.php:693
+msgid "Add a review"
+msgstr "Dodaj opinię"
+
+#: inc/template-tags.php:580
+msgid "Saturday"
+msgstr "Sobota"
+
+#: inc/template-tags.php:579
+msgid "Friday"
+msgstr "Piątek"
+
+#: inc/template-tags.php:578
+msgid "Thursday"
+msgstr "Czwartek"
+
+#: inc/template-tags.php:577
+msgid "Wednesday"
+msgstr "Środa"
+
+#: inc/template-tags.php:576
+msgid "Tuesday"
+msgstr "Wtorek"
+
+#: inc/template-tags.php:575
+msgid "Monday"
+msgstr "Poniedziałek"
+
+#: inc/template-tags.php:574
+msgid "Sunday"
+msgstr "Niedziela"
+
+#: inc/template-tags.php:554
+msgid "December"
+msgstr "Grudzień"
+
+#: inc/template-tags.php:553
+msgid "November"
+msgstr "Listopad"
+
+#: inc/template-tags.php:552
+msgid "October"
+msgstr "Październik"
+
+#: inc/template-tags.php:551
+msgid "September"
+msgstr "Wrzesień"
+
+#: inc/template-tags.php:550
+msgid "August"
+msgstr "Sierpień"
+
+#: inc/template-tags.php:549
+msgid "July"
+msgstr "Lipiec"
+
+#: inc/template-tags.php:548
+msgid "June"
+msgstr "Czerwiec"
+
+#: inc/template-tags.php:547
+msgid "May"
+msgstr "Maj"
+
+#: inc/template-tags.php:546
+msgid "April"
+msgstr "Kwiecień"
+
+#: inc/template-tags.php:545
+msgid "March"
+msgstr "Marzec"
+
+#: inc/template-tags.php:544
+msgid "February"
+msgstr "Luty"
+
+#: inc/template-tags.php:543
+msgid "January"
+msgstr "Styczeń"
+
+#. Translators: page/post title.
+#: inc/template-tags.php:393 inc/template-tags.php:412
+#: inc/template-tags.php:434
+msgid "Read more %s"
+msgstr "Czytaj dalej %s"
+
+#. Translators: author name.
+#: inc/template-tags.php:317
+msgid "by %s"
+msgstr "przez %s"
+
+#. Translators: pageviews.
+#: inc/template-tags.php:306
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] "%s wyświetlenie"
+msgstr[1] "%s wyświetlenia"
+msgstr[2] "%s wyświetleń"
+
+#. Translators: pageviews.
+#: inc/template-tags.php:299
+msgid "%s view per day"
+msgid_plural "%s views per day"
+msgstr[0] "%s wyświetlenie dziennie"
+msgstr[1] "%s wyświetlenia dziennie"
+msgstr[2] "%s wyświetleń dziennie"
+
+#. Translators: comment count.
+#: inc/template-tags.php:286
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s komentarz"
+msgstr[1] "%s komentarze"
+msgstr[2] "%s komentarzy"
+
+#: inc/template-tags.php:220 inc/template-tags.php:221
+#: inc/template-tags.php:700
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/template-tags.php:218 inc/template-tags.php:219
+#: inc/template-tags.php:698
+msgid "Name"
+msgstr "Imię"
+
+#: inc/template-tags.php:184
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:162
+msgid "%s ago"
+msgstr "%s temu"
+
+#: inc/template-tags.php:75 inc/template-tags.php:180 page.php:56
+#: template-page-nosidebar.php:53
+msgid "Edit"
+msgstr "Edytuj"
+
+#. Translators: tag list.
+#: inc/template-tags.php:65
+msgid "Tagged: %1$s"
+msgstr "Otagowany: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#. Translators: post date in "ago" format.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "%s ago"
+msgstr "%s temu"
+
+#: inc/customizer.php:645
+msgid "Enable WordPress Popular Posts Original Output (needs page refresh)"
+msgstr "Włącz Oryginalne Ustawienia Wtyczki: WordPress Popular Posts (należy odświeżyć stronę)"
+
+#: inc/customizer.php:628
+msgid "Enable Sticky Sidebar"
+msgstr "Włącz Przypięty Panel boczny "
+
+#: inc/customizer.php:606
+msgid "When to Hide/Show Top Menu (in px)"
+msgstr "Kiedy Ukryć/Pokazać Górne Menu (w pikselach)"
+
+#: inc/customizer.php:591
+msgid "Advanced Settings"
+msgstr "Ustawienia Zaawansowane "
+
+#: inc/customizer.php:589
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: inc/customizer.php:579
+msgid "Enable Page Title on Shop Page"
+msgstr "Włącz tytuł strony na stronie sklepu"
+
+#: inc/customizer.php:562
+msgid "Enable Sidebar on Shop Page"
+msgstr "Włącz panel boczny na stronie sklepu"
+
+#: inc/customizer.php:547
+msgid "WooCommerce Settings"
+msgstr "Ustawienia WooCommerce"
+
+#: inc/customizer.php:545 inc/tgmpa-plugins.php:45
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer.php:500
+msgid "Navigate Only In The Same Category"
+msgstr "Nawiguj tylko w tej samej kategorii"
+
+#: inc/customizer.php:483
+msgid "Single Post Navigation Previous Post Label"
+msgstr "Nawigacja Pojedynczego Wpisu: Etykieta dla Poprzedniego Wpisu "
+
+#: inc/customizer.php:475
+msgid "Previous Article"
+msgstr "Poprzedni Artykuł "
+
+#: inc/customizer.php:466
+msgid "Single Post Navigation Next Post Label"
+msgstr " \tNawigacja Pojedynczego Wpisu: Etykieta dla Następnego Wpisu "
+
+#: inc/customizer.php:458
+msgid "Next Article"
+msgstr "Następny Artykuł "
+
+#: inc/customizer.php:449
+msgid "Show Related Posts By Categories (Else by Tags)."
+msgstr "Pokaż Powiązane Wpisy Według Kategorii "
+
+#: inc/customizer.php:432
+msgid "Enable Single Post Navigation"
+msgstr "Włącz Nawigację Pojedynczego Wpisu "
+
+#: inc/customizer.php:415
+msgid "Related Posts Header Text"
+msgstr "Tytuł Nagłówka dla Powiązanych Wpisów "
+
+#: inc/customizer.php:407 inc/template-tags.php:657
+msgid "You May Also Like"
+msgstr "Może Ci się spodobać "
+
+#: inc/customizer.php:398
+msgid "Show Related Posts."
+msgstr "Pokaz Wpisy Powiązane."
+
+#: inc/customizer.php:381
+msgid "Show Featured Images In Standard Posts"
+msgstr "Pokaż Obrazek Wyróżniający"
+
+#: inc/customizer.php:364
+msgid "Show Sidebar"
+msgstr "Pokaż Panel Boczny"
+
+#: inc/customizer.php:349
+msgid "Single Post Settings"
+msgstr "Ustawienia Pojedynczego Wpisu"
+
+#: inc/customizer.php:347
+msgid "Single Post"
+msgstr "Pojedynczy Wpis"
+
+#: inc/customizer.php:337
+msgid "Show Sticky Posts Below Slider"
+msgstr "Pokaż przyklejone wpisy poniżej galerii"
+
+#: inc/customizer.php:297
+msgid "Page Numbers"
+msgstr "Numery Stron"
+
+#: inc/customizer.php:296
+msgid "Infinite Scrolling"
+msgstr "Nieskończone Przewijanie"
+
+#: inc/customizer.php:313
+msgid "Popular Posts Image Size"
+msgstr "Wielkość obrazka w WordPress Popular Posts Widget"
+
+#: inc/customizer.php:295
+msgid "Load More Button"
+msgstr "Guzik Wczytaj Więcej"
+
+#: inc/customizer.php:291
+msgid "Pagination Style"
+msgstr "Styl Paginacji"
+
+#: inc/customizer.php:274
+msgid "Hide Meta On Home Page/Archive Pages"
+msgstr "Ukryj Meta na Stronie Głównej/Stronach Archiwum"
+
+#: inc/customizer.php:257
+msgid "Hide Titles On Home Page/Archive Pages"
+msgstr "Ukryj Tytuły na Stronie Głównej/Stronach Archiwum"
+
+#: inc/customizer.php:240
+msgid "Show Featured Images on Homepage"
+msgstr "Pokaż Obrazek Wyróżniający na stronie głównej"
+
+#: inc/customizer.php:223
+msgid "Display Content on Home and Archive Pages."
+msgstr "Wyświetlaj Treść na Stronie Głównej i Stronach Archiwalnych."
+
+#: inc/customizer.php:206
+msgid "Enable Latest Posts Text"
+msgstr "Włącz Tekst \"Ostatnie Wpisy\""
+
+#: inc/customizer.php:185
+msgid "0 to disable autoplay"
+msgstr "wpisz 0 aby wyłączyć autoprzewijanie"
+
+#: inc/customizer.php:183
+msgid "Sliding speed of Home Page Slider (in ms)"
+msgstr "Prędkość przewijania obrazów w galerii (ms)"
+
+#: inc/customizer.php:167 inc/customizer.php:321
+msgid "Full"
+msgstr "Pełny rozmiar"
+
+#: inc/customizer.php:166 inc/customizer.php:320
+msgid "Large"
+msgstr "Duży"
+
+#: inc/customizer.php:165 inc/customizer.php:319
+msgid "Medium"
+msgstr "Średni"
+
+#: inc/customizer.php:164 inc/customizer.php:318
+msgid "Thumbnail"
+msgstr "MIniatura"
+
+#: inc/customizer.php:161 inc/customizer.php:315
+msgid "From >Settings>Media"
+msgstr "z Ustawienia>Media"
+
+#: inc/customizer.php:159
+msgid "Slider Image Size"
+msgstr "Wielkość Obrazka w Sliderze"
+
+#: inc/customizer.php:138
+msgid "(in pixels)"
+msgstr "(w pikselach)"
+
+#: inc/customizer.php:136
+msgid "Height of Home Page Slider"
+msgstr "Wysokość Slidera na Stronie Głównej"
+
+#: inc/customizer.php:120
+msgid "Classic (One Column)"
+msgstr "Jedna Kolumna"
+
+#: inc/customizer.php:119
+msgid "Masonry (No Sidebar)"
+msgstr "Masonry (bez panelu bocznego) "
+
+#: inc/customizer.php:118
+msgid "List + Sidebar"
+msgstr "Lista + Panel Boczny"
+
+#: inc/customizer.php:117
+msgid "Masonry + Sidebar"
+msgstr "Masonry + Panel Boczny"
+
+#: inc/customizer.php:113
+msgid "Blog Home Page Layout"
+msgstr "Układ Głównej Strony Bloga"
+
+#: inc/customizer.php:95
+msgid "Footer Widget Area Background Color"
+msgstr "Kolot tła dla widgeta: Footer"
+
+#: inc/customizer.php:74
+msgid "Sidebar Background Color 3"
+msgstr "Kolor Tła panelu bocznego 3"
+
+#: inc/customizer.php:53
+msgid "Sidebar Background Color 2"
+msgstr "Kolor Tła panelu bocznego 2"
+
+#: inc/customizer.php:32
+msgid "Sidebar Background Color 1"
+msgstr "Kolor Tła panelu bocznego 1"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacja wtyczki %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s zainstalowano pomyślnie."
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczął się proces instalacji. Proces ten może zająć trochę czasu, proszę o cierpliwość."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i Aktywowanie Wtyczki %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały zakończone. "
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s zainstalowane i aktywowane pomyślnie."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Rozpoczął się proces instalacji i uruchamiania. Proces ten może zająć trochę czasu, więc bądź cierpliwy."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodła się."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Podczas instalacji %1$s wystąpił błąd: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualizowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Aktywowanie wtyczki nie powiodło się."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Brak dostępnych wtyczek do aktywacji."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Żadne wtyczki nie zostały wybrane do aktywacji. Nie podjęto żadnego działania."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Żadne wtyczki nie są dostępne do aktualizowania."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Żadne wtyczki nie są dostępne do zainstalowania w tej chwili."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Żadne wtyczki nie zostały wybrane do aktualizacji. Nie podjęto żadnego działania."
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Żadne wtyczki nie zostały wybrane do zainstalowania. Nie podjęto żadnego działania."
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktywuj"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Aktualizacja"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Aktualna wiadomość od autora wtyczki:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Aktualizuj %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Zainstaluj %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Wersja"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Rodzaj"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Źródło"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Włącz %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Brak wtyczek do zainstalowania, aktualizacji lub włączenia."
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Dostępna wersja:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimalna wymagana wersja:"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Zainstalowana wersja:"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "nieznana"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aby włączyć <span class=\"count\">(%s)</span>"
+msgstr[1] "Aby włączyć <span class=\"count\">(%s)</span>"
+msgstr[2] "Aby włączyć <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostępna aktualizacja <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostępnych aktualizacji <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Do instalacji <span class=\"count\">(%s)</span>"
+msgstr[1] "Do instalacji <span class=\"count\">(%s)</span>"
+msgstr[2] "Do instalacji <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span>"
+msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
+msgstr[2] "Wszystkich <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Zalecana aktualizacja"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Wymagana aktualizacja"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Wymagana aktualizacja nie jest dostępna"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktywny"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Zainstalowane, ale nieaktywne"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Niezainstalowane"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Źródło Zewnętrzne"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPressa"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Polecane"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Wymagane"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "i"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Zdalny pakiet wtyczek składa się z więcej niż jednego pliku, ale pliki nie są spakowane w folderze."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Proszę skontaktować się z dostawcą wtyczki i poprosić go, aby spakował swoją wtyczkę zgodnie z wytycznymi WordPress."
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Zdalna paczka wtyczki nie zawiera folderu z oczekiwaną nazwą, zmiana nazwy nie zadziałała."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Wymagana Aktualizacja"
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Ta wtyczka musi być zaktualizowana, aby była zgodna z Twoim motywem."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Aby uzyskać pomoc, skontaktuj się z administratorem tej witryny."
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Istnieje jedna albo więcej wymaganych lub rekomendowanych wtyczek do instalacji, aktualizacji lub aktywacji."
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Odrzuć tę informację"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Pomyślnie zainstalowano i włączono wszystkie wtyczki. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Wtyczka nieaktywna. Wyższa wersja %s jest wymagana w tym motywie. Proszę zaktualizuj wtyczkę."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nie podjęto żadnego działania. Wtyczka %1$s jest już włączona."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "Następująca wtyczka została pomyślnie aktywowana:"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Wtyczka aktywowana."
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Powrót do Kokpitu"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do instalatora wymaganych wtyczek"
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Rozpoczęcie aktywacji wtyczki"
+msgstr[1] "Rozpoczęcie aktywacji wtyczek"
+msgstr[2] "Rozpoczęcie aktywacji wtyczek"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Rozpocznij aktualizację wtyczki"
+msgstr[1] "Rozpocznij aktualizację wtyczek"
+msgstr[2] "Rozpocznij aktualizację wtyczek"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Rozpoczęcie instalacji wtyczki"
+msgstr[1] "Rozpoczęcie instalacji wtyczek"
+msgstr[2] "Rozpoczęcie instalacji wtyczek"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczki."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Aktualizacja wtyczki: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalacja wtyczki: %s "
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+#: inc/class-blover-meta-for-categories.php:318
+msgid "Choose Image"
+msgstr "Wybierz obrazek"
+
+#: inc/class-blover-meta-for-categories.php:317
+msgid "Choose Category Image"
+msgstr "Wybierz obrazek dla Kategorii"
+
+#: inc/class-blover-meta-for-categories.php:213
+msgid "Category Image"
+msgstr "Zdjęcie kategorii"
+
+#: inc/class-blover-meta-for-categories.php:185
+#: inc/class-blover-meta-for-categories.php:228
+msgid "Remove"
+msgstr "Usuń"
+
+#: inc/class-blover-meta-for-categories.php:184
+#: inc/class-blover-meta-for-categories.php:227
+msgid "Upload"
+msgstr "Prześlij"
+
+#: inc/class-blover-meta-for-categories.php:179
+msgid "Image"
+msgstr "Obrazek"
+
+#: inc/class-blover-meta-for-categories.php:114
+#: inc/class-blover-meta-for-categories.php:159
+msgid "Text Color"
+msgstr "Kolor Tekstu"
+
+#: inc/class-blover-meta-for-categories.php:99
+#: inc/class-blover-meta-for-categories.php:135
+msgid "Background Color"
+msgstr "Kolor Tła"
+
+#: header.php:38 searchform.php:14
+msgid "Search"
+msgstr "Szukaj"
+
+#: header.php:34 inc/template-tags.php:746
+msgid "Cart"
+msgstr "Koszyk"
+
+#: header.php:30
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Przejdź do treści"
+
+#: functions.php:307
+msgid "Create An Account"
+msgstr "Utwórz konto"
+
+#: functions.php:306
+msgid "Login"
+msgstr "Login"
+
+#: functions.php:304 inc/template-tags.php:606
+msgid "Expand"
+msgstr "Rozwiń"
+
+#: functions.php:303
+msgid "No More Posts"
+msgstr "Brak Wpisów"
+
+#: functions.php:301
+msgid "Load more posts"
+msgstr "Wczytaj więcej wpisów"
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:231
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "bez podzbioru"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Work Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:223
+msgctxt "Work Sans font: on or off"
+msgid "on"
+msgstr "Włącz"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Amiri, translate this to 'off'. Do not translate into your own language.
+#: functions.php:215
+msgctxt "Amiri font: on or off"
+msgid "on"
+msgstr "Włącz"
+
+#: functions.php:143
+msgid "Top"
+msgstr "Górny - Top"
+
+#: functions.php:131
+msgid "Left Menu (Mobile)"
+msgstr "Lewe Menu (Mobilne) - Left Menu"
+
+#: functions.php:121
+msgid "Right Sidebar Widget Area"
+msgstr "Obszar Widgetu Prawego panel bocznego"
+
+#: functions.php:133
+msgid "Mobile Menu Widget Area"
+msgstr "Obszar Widgetu Menu Mobilnego"
+
+#: functions.php:181
+msgid "Shop Sidebar Widget Area."
+msgstr "Obszar Widgetu panelu bocznego sklepu"
+
+#: functions.php:179
+msgid "Shop Sidebar"
+msgstr "Panel boczny sklepu - Shop Sidebar"
+
+#: functions.php:169
+msgid "Footer Widget Area."
+msgstr "Obszar Widgetu dla stopki"
+
+#: functions.php:167
+msgid "Footer"
+msgstr "Stopka - Footer"
+
+#: functions.php:157
+msgid "Bottom Widget Area."
+msgstr "Dolny Obszar Widgetu"
+
+#: functions.php:155
+msgid "Bottom"
+msgstr "Dolny Widget - Bottom"
+
+#: functions.php:145
+msgid "Top Widget Area. Above the content - on home and archive pages"
+msgstr "Górny Widget (Top) nad treścią (na stronie głównej i stronach archiwum)"
+
+#: functions.php:119
+msgid "Right Sidebar"
+msgstr "Prawy panel boczny - Right Sidebar"
+
+#: functions.php:50
+msgid "Top Menu"
+msgstr "Górne Menu - Top Menu"
+
+#: functions.php:49
+msgid "Left Menu"
+msgstr "Lewe Menu - Left Menu"
+
+#. translators: theme name and theme author.
+#: footer.php:70
+msgid "Theme: %1$s by %2$s."
+msgstr "Motyw: %1$s by %2$s."
+
+#: functions.php:51
+msgid "Social Menu"
+msgstr "Menu sieci społecznościowych - Social Menu"
+
+#. translators: WordPress.
+#: footer.php:68
+msgid "Proudly powered by %s"
+msgstr "Dumnie wspierany przez WordPressa"
+
+#: footer.php:27 functions.php:305 header.php:40
+msgid "Close"
+msgstr "Zamknij"
+
+#: comments.php:86
+msgid "Comment"
+msgstr "Komentarz"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Komentarze są wyłączone."
+
+#: comments.php:43 comments.php:68
+msgid "Newer Comments"
+msgstr "Nowsze komentarze"
+
+#: comments.php:42 comments.php:67
+msgid "Older Comments"
+msgstr "Starsze komentarze"
+
+#: comments.php:39 comments.php:64
+msgid "Comment navigation"
+msgstr "Nawigacja po komentarzach"
+
+#. Translators: comments number.
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Komentarz"
+msgstr[1] "%1$s Komentarze"
+msgstr[2] "%1$s Komentarzy"
+
+#: author.php:61
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: author.php:57
+msgid "Instagram"
+msgstr "Instagram"
+
+#: author.php:53
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: author.php:49
+msgid "Facebook"
+msgstr "Facebook"
+
+#: author.php:45
+msgid "Twitter"
+msgstr "Twitter"
+
+#: author.php:41 inc/template-tags.php:222 inc/template-tags.php:223
+msgid "Website"
+msgstr "Strona"
+
+#: 404.php:32
+msgid "Maybe try a search?"
+msgstr "Może spróbuj wyszukać?"
+
+#: 404.php:32
+msgid "It looks like nothing was found at this location."
+msgstr "Wygląda na to, że nic nie zostało znalezione."
+
+#: 404.php:23
+msgid "Error 404"
+msgstr "Błąd 404"
+
+#: amp/footer.php:14
+msgid "Back to top"
+msgstr "Powrót na górę"
+
+#. Author URI of the plugin/theme
+msgid "https://blogonyourown.com"
+msgstr "https://blogonyourown.com"
+
+#. Author of the plugin/theme
+msgid "BlogOnYourOwn.com"
+msgstr "BlogOnYourOwn.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://blogonyourown.com/themes/blover/"
+msgstr "https://blogonyourown.com/themes/blover/"

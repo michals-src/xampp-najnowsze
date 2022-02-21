@@ -1,0 +1,209 @@
+2020-02-18T11:39:13+00:00 CRITICAL Uncaught Error: Class 'Sf_Card' not found in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:17
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\ w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 17
+
+2020-02-18T11:39:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Sf_Card::__construct(), 0 passed in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php on line 17 and exactly 1 expected in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:45
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(17): Sf_Card->__construct()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 E:\Dev\xampp\htdocs\wp-content\ w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 45
+
+2020-02-18T11:41:13+00:00 CRITICAL Uncaught Error: Cannot throw objects that do not implement Throwable in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:48
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(18): Sf_Card->__construct()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\i w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 48
+
+2020-02-18T11:42:37+00:00 CRITICAL Object of class Sf_Card could not be converted to string w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 18
+
+2020-02-18T11:42:54+00:00 CRITICAL Uncaught Error: Call to undefined method Sf_Card::getMessage() in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php:18
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(25): do_action('sf_manager_dash...')
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-template.php(68): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stay w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 18
+
+2020-02-18T11:44:03+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:144
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(67): Sf_Card->read_object_from_db('key')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(17): Sf_Card->__construct(1)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\templ w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 144
+
+2020-02-18T11:44:41+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:149
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(67): Sf_Card->read_object_from_db('key')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(17): Sf_Card->__construct(1)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\templ w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 149
+
+2020-02-18T15:23:03+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Query as array in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:151
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(67): Sf_Card->read_object_from_db('key')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(17): Sf_Card->__construct('twar\xC3\xB3g')
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templ w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 151
+
+2020-02-18T17:01:28+00:00 CRITICAL Uncaught Error: Call to undefined method Sf_Card::set_key() in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:71
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(17): Sf_Card->__construct('twar\xC3\xB3g')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_dashboard.php(28): do_action('sf_manager_dash...')
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-man w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 71
+
+2020-02-18T17:02:00+00:00 CRITICAL Uncaught Error: Call to undefined method Sf_Card::set_date_expires() in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:264
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(74): Sf_Card->read_object_from_db('key')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(17): Sf_Card->__construct('twar\xC3\xB3g')
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-mana w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 264
+
+2020-02-18T19:16:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Sf_Card::assign_to(), 1 passed in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-form-handle.php on line 152 and exactly 2 expected in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:273
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-form-handle.php(152): Sf_Card->assign_to(Object(Sf_User))
+#1 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): Sf_Form_Handle::dashboard_client_manager_create_handler('')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 E:\Dev\xampp\htdocs\wp-settings.php(546): do_action('wp_loaded')
+#5 E:\Dev\xampp\htdocs\wp-config.php(90): require_once('E:\\Dev\\xampp\\ht...')
+#6 E:\Dev\xampp\htdocs\wp-load.php(37): require_once('E:\\Dev\\xampp\\ht...')
+#7 E:\Dev\xampp\htdocs\wp-blog-header.php(13): requir w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 273
+
+2020-02-18T19:38:29+00:00 CRITICAL Uncaught Error: Call to undefined method Sf_User::get_id() in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:312
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(277): Sf_Card->create(Object(Sf_User), Array)
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(27): Sf_Card->assign_to(Object(Sf_User), Array)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-mana w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 312
+
+2020-02-18T19:38:40+00:00 CRITICAL Uncaught Error: Call to undefined method Sf_User::get_id() in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:312
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(277): Sf_Card->create(Object(Sf_User), Array)
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(27): Sf_Card->assign_to(Object(Sf_User), Array)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-mana w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 312
+
+2020-02-18T19:38:47+00:00 CRITICAL Uncaught Error: Call to undefined method Sf_User::get_id() in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:310
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(277): Sf_Card->create(Object(Sf_User), Array)
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(27): Sf_Card->assign_to(Object(Sf_User), Array)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-mana w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 310
+
+2020-02-18T20:47:56+00:00 CRITICAL Uncaught Error: Call to undefined function wp_post_update() in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:381
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(285): Sf_Card->update(Array)
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(27): Sf_Card->reassign_to(Object(Sf_User), 'hello_world_2', Array)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-m w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 381
+
+2020-02-18T20:54:21+00:00 CRITICAL Uncaught Error: Cannot use string offset as an array in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:344
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(299): Sf_Card->create(Object(Sf_User), 'hello_world_4')
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(27): Sf_Card->assign_to(Object(Sf_User), 'hello_world_4', Array)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 344
+
+2020-02-18T21:09:40+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WP_User::get(), 0 passed in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-user.php on line 62 and exactly 1 expected in E:\Dev\xampp\htdocs\wp-includes\class-wp-user.php:405
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-user.php(62): WP_User->get()
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-user.php(53): Sf_User->user_before(19)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(20): Sf_User->__construct(19)
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#4 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#6 E:\Dev\xampp\htdocs\wp-includes\class-w w E:\Dev\xampp\htdocs\wp-includes\class-wp-user.php w linii 405
+
+2020-02-18T21:09:56+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_User as array in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-user.php:61
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-user.php(53): Sf_User->user_before(19)
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(20): Sf_User->__construct(19)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#5 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\templates\template-sf-admin_das w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-user.php w linii 61
+
+2020-02-18T21:16:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Sf_Card::reassign_to(), 2 passed in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php on line 27 and exactly 3 expected in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:280
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(27): Sf_Card->reassign_to(Object(Sf_User), Array)
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Dashboard->client_manager('person')
+#3 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): sf_manager_dashboard_content('')
+#4 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 E:\Dev\x w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 280
+
+2020-02-18T21:21:28+00:00 CRITICAL syntax error, unexpected '$user' (T_VARIABLE), expecting ',' or ';' w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php w linii 20
+
+2020-02-18T21:45:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function Sf_Card::{closure}(), 1 passed and exactly 2 expected in E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php:409
+Stack trace:
+#0 [internal function]: Sf_Card->{closure}(115)
+#1 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(413): array_map(Object(Closure), Array)
+#2 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(357): Sf_Card->update_meta_data(Array)
+#3 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php(301): Sf_Card->create(Object(Sf_User), Array)
+#4 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\dashboard\class-sf-client_manager.php(26): Sf_Card->assign_to(Object(Sf_User), Array)
+#5 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-dashboard.php(239): Sf_Client_Manager->person()
+#6 E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\sf-dashboard-functions.php(95): Sf_Da w E:\Dev\xampp\htdocs\wp-content\plugins\stayfit-manager\includes\class-sf-card.php w linii 409
+

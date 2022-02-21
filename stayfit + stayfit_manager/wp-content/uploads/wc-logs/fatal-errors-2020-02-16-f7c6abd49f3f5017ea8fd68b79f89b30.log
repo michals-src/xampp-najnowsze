@@ -1,0 +1,21 @@
+2020-02-16T20:40:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in E:\Dev\xampp\htdocs\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php:77
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php(120): storefront_cart_link()
+#1 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(286): storefront_header_cart('')
+#2 E:\Dev\xampp\htdocs\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 E:\Dev\xampp\htdocs\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 E:\Dev\xampp\htdocs\wp-content\themes\storefront\header.php(46): do_action('storefront_head...')
+#5 E:\Dev\xampp\htdocs\wp-includes\template.php(722): require_once('E:\\Dev\\xampp\\ht...')
+#6 E:\Dev\xampp\htdocs\wp-includes\template.php(671): load_template('E:\\Dev\\xampp\\ht...', true)
+#7 E:\Dev\xampp\htdocs\wp-includes\general-template.php(41): locate_template(Array, true)
+#8 E:\Dev\xampp\htdocs\wp-content\themes\ w E:\Dev\xampp\htdocs\wp-content\themes\storefront\inc\woocommerce\storefront-woocommerce-template-functions.php w linii 77
+
+2020-02-16T20:44:54+00:00 CRITICAL Object of class WP_REST_Response could not be converted to string w E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version3\class-wc-rest-crud-controller.php w linii 376
+
+2020-02-16T20:49:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_REST_Coupons_V2_Controller::prepare_object_for_response(), 0 passed in E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version3\class-wc-rest-crud-controller.php on line 364 and exactly 2 expected in E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version2\class-wc-rest-coupons-v2-controller.php:204
+Stack trace:
+#0 E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version3\class-wc-rest-crud-controller.php(364): WC_REST_Coupons_V2_Controller->prepare_object_for_response()
+#1 E:\Dev\xampp\htdocs\wp-includes\rest-api\class-wp-rest-server.php(946): WC_REST_CRUD_Controller->get_items(Object(WP_REST_Request))
+#2 E:\Dev\xampp\htdocs\wp-includes\rest-api\class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#3 E:\Dev\xampp\htdocs\wp-includes\rest-api.php(309): WP_REST_Server->serve_requ w E:\Dev\xampp\htdocs\wp-content\plugins\woocommerce\packages\woocommerce-rest-api\src\Controllers\Version2\class-wc-rest-coupons-v2-controller.php w linii 204
+
